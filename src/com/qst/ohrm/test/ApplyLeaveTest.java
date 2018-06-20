@@ -1,0 +1,93 @@
+package com.qst.ohrm.test;
+
+import java.io.IOException;
+
+import org.openqa.selenium.WebDriver;
+import org.testng.ITestResult;
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.AfterSuite;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.BeforeSuite;
+import org.testng.annotations.Listeners;
+import org.testng.annotations.Test;
+import org.testng.internal.ITestResultNotifier;
+
+import com.qst.ohrm.page.OrangeDashboardPage;
+import com.qst.ohrm.page.OrangeHRMLeavePage;
+import com.qst.ohrm.page.OrangeHRMLoginPage;
+import com.qst.ohrm.utils.ConfigFileReader;
+import com.qst.ohrm.utils.CustomListner;
+import com.qst.ohrm.utils.DriverUtils;
+import com.qst.ohrm.utils.ExtentReportFactory;
+import com.qst.ohrm.utils.Log;
+import com.qst.ohrm.utils.OrangeHRMUtils;
+import com.qst.ohrm.utils.Screenshots;
+import com.relevantcodes.extentreports.ExtentReports;
+import com.relevantcodes.extentreports.ExtentTest;
+
+import sun.util.logging.resources.logging;
+//@Listeners(CustomListner.class)
+public class ApplyLeaveTest {
+
+	private static WebDriver driver = null;
+	OrangeHRMLoginPage oLoginpage= null;
+	OrangeDashboardPage odashboardpage = null;
+	OrangeHRMLeavePage oleavePage = null;
+	static Exception ex = null;
+	
+	ConfigFileReader configFileReader;
+	DriverUtils dUtils=null;
+	ExtentReports reports;
+	ExtentTest test;
+ 	@BeforeSuite
+ 	public void preConfig(){
+ 		configFileReader= new ConfigFileReader();
+ 		Log.configureReport();
+ 		Log.startReport("setup");
+		
+ 	}
+	@BeforeClass
+ 	public void setup(){
+		driver = DriverUtils.getWebDriver();
+		oLoginpage = new OrangeHRMLoginPage(driver,test);
+		odashboardpage = new OrangeDashboardPage(driver,test);
+		oleavePage = new OrangeHRMLeavePage(driver,test);
+ 	}
+	
+	@Test(groups={"smoke","regression"})
+	public void validateLeaveListTest(){
+		Log.startReport("validateLeaveListTest");
+		OrangeHRMUtils.launchApp(driver,configFileReader.getApplicationUrl());
+		oLoginpage.loginToOrangeHRM(driver, "aravind", "@ravindA1");
+		
+		oleavePage.moveMouseOnLeaveTab();
+		oleavePage.clickOnleaveList();
+		oleavePage.enterFromDate("2018-01-01");
+		oleavePage.enterToDate("2018-12-31");
+		oleavePage.selectAllLeaveStatusCheckBox();
+		oleavePage.enterEmployeeName("Employee-A LN-1");
+		oleavePage.clickOnSearchButton();
+		odashboardpage.clickOnLogoutLink();
+	}
+	
+	@AfterMethod
+	public void tearDown(ITestResult testResult) throws IOException {
+		if (testResult.getStatus() == ITestResult.FAILURE) {
+			String path = Screenshots.takeScreenshot(driver, testResult.getName()+ExtentReportFactory.getCurrentDateAndTime());
+			Log.info("Path " + path);
+			Log.attachScreenShot(path);
+			Log.writeToFailFile(testResult.getThrowable().toString());
+			System.out.println(Exception.class.toString());
+			
+		}
+		
+		Log.endReport();
+	}
+	
+	@AfterSuite
+	public void tearDown(){
+		driver.close();
+		driver = null;
+	}
+}

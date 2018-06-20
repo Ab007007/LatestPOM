@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/QSP/LatestPOM/jar/testng/bsh-2.0b6.jar"/>
+	<classpathentry kind="lib" path="D:/QSP/LatestPOM/jar/testng/jcommander-1.69.jar"/>
+	<classpathentry kind="lib" path="D:/QSP/LatestPOM/jar/testng/testng-6.14.2.jar"/>
+	<classpathentry kind="lib" path="D:/QSP/LatestPOM/jar/extentReports/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="D:/QSP/LatestPOM/jar/extentReports/freemarker-2.3.28.jar"/>
+	<classpathentry kind="lib" path="D:/QSP/LatestPOM/jar/extentReports/jsoup-1.11.2.jar"/>
+	<classpathentry kind="lib" path="D:/QSP/LatestPOM/jar/extentReports/mongodb-driver-3.6.3.jar"/>
+	<classpathentry kind="lib" path="D:/QSP/LatestPOM/jar/extentReports/sqlite-jdbc-3.21.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/QSP/LatestPOM/jar/selenium-java-3.10.0/client-combined-3.10.0.jar"/>
+	<classpathentry kind="lib" path="D:/QSP/LatestPOM/jar/selenium-java-3.10.0/client-combined-3.10.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/QSP/LatestPOM/jar/selenium-java-3.10.0/libs/byte-buddy-1.7.9.jar"/>
+	<classpathentry kind="lib" path="D:/QSP/LatestPOM/jar/selenium-java-3.10.0/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/QSP/LatestPOM/jar/selenium-java-3.10.0/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/QSP/LatestPOM/jar/selenium-java-3.10.0/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/QSP/LatestPOM/jar/selenium-java-3.10.0/libs/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="D:/QSP/LatestPOM/jar/selenium-java-3.10.0/libs/guava-23.6-jre.jar"/>
+	<classpathentry kind="lib" path="D:/QSP/LatestPOM/jar/selenium-java-3.10.0/libs/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/QSP/LatestPOM/jar/selenium-java-3.10.0/libs/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="D:/QSP/LatestPOM/jar/selenium-java-3.10.0/libs/okhttp-3.9.1.jar"/>
+	<classpathentry kind="lib" path="D:/QSP/LatestPOM/jar/selenium-java-3.10.0/libs/okio-1.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/QSP/LatestPOM/jar/log4j-1.2.12.jar"/>
+	<classpathentry kind="lib" path="D:/QSP/LatestPOM/jar/commons-io-2.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,128 @@
+2018-06-19 15:49:31,956 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] **************************************************************************************** 
+2018-06-19 15:49:31,957 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] **************************************************************************************** 
+2018-06-19 15:49:31,957 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 setup-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-19 15:49:31,957 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] **************************************************************************************** 
+2018-06-19 15:49:31,957 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] **************************************************************************************** 
+2018-06-19 15:49:31,978 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] creating webDriver--- 
+2018-06-19 15:49:50,563 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] returning webdriver to test 
+2018-06-19 15:49:50,615 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] **************************************************************************************** 
+2018-06-19 15:49:50,615 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] **************************************************************************************** 
+2018-06-19 15:49:50,616 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 validateLoginTest1-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-19 15:49:50,616 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] **************************************************************************************** 
+2018-06-19 15:49:50,616 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] **************************************************************************************** 
+2018-06-19 15:49:50,616 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] --Started Executing Test - validateLoginTest 
+2018-06-19 15:49:55,102 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] ****Entering UserName aravind 
+2018-06-19 15:49:55,684 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] ****Entering User Password @ravindA 
+2018-06-19 15:49:55,769 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] ****Clicking on Login Button 
+2018-06-19 15:50:27,967 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] Login failed with aravind and @ravindA 
+2018-06-19 15:50:27,973 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] inside after method with 2 
+2018-06-19 15:50:27,973 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] 2 
+2018-06-19 15:50:28,195 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] Path D:\QSP\LatestPOM\reports\ss\validateLoginFailTestTue_Jun_19_15_50_27_IST_2018.png 
+2018-06-19 15:50:28,197 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-19 15:50:28,197 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] X 
+2018-06-19 15:50:28,197 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] X 
+2018-06-19 15:50:28,197 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] X 
+2018-06-19 15:50:28,197 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] X 
+2018-06-19 15:50:28,806 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] **************************************************************************************** 
+2018-06-19 15:50:28,806 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] **************************************************************************************** 
+2018-06-19 15:50:28,806 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 validateLoginTest-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-19 15:50:28,807 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] **************************************************************************************** 
+2018-06-19 15:50:28,807 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] **************************************************************************************** 
+2018-06-19 15:50:28,807 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] --Started Executing Test - validateLoginTest 
+2018-06-19 15:50:30,402 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] Launched application successfully 
+2018-06-19 15:50:30,402 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] ****Entering UserName aravind 
+2018-06-19 15:50:30,565 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] ****Entering User Password @ravindA1 
+2018-06-19 15:50:30,726 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] ****Clicking on Login Button 
+2018-06-19 15:50:35,935 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] Login Success 
+2018-06-19 15:50:35,935 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] Login to Applicaiton Success 
+2018-06-19 15:50:35,935 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] --Completeds Executing Test - validateLoginTest 
+2018-06-19 15:50:35,935 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] inside after method with 1 
+2018-06-19 15:50:35,936 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] 2 
+2018-06-19 15:50:35,946 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-19 15:50:35,947 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] X 
+2018-06-19 15:50:35,947 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] X 
+2018-06-19 15:50:35,947 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] X 
+2018-06-19 15:50:35,947 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] X 
+2018-06-19 15:50:38,794 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] creating webDriver--- 
+2018-06-19 15:50:45,797 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] returning webdriver to test 
+2018-06-19 15:50:45,808 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] **************************************************************************************** 
+2018-06-19 15:50:45,808 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] **************************************************************************************** 
+2018-06-19 15:50:45,808 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 validateLeaveListTest-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-19 15:50:45,808 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] **************************************************************************************** 
+2018-06-19 15:50:45,808 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] **************************************************************************************** 
+2018-06-19 15:50:47,546 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] ****Entering UserName aravind 
+2018-06-19 15:50:47,694 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] ****Entering User Password @ravindA1 
+2018-06-19 15:50:47,784 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] ****Clicking on Login Button 
+2018-06-19 15:50:51,409 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] Login Success 
+2018-06-19 15:50:51,409 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] Moving mouse to List Tab  
+2018-06-19 15:50:52,363 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] ---clicking on leave list--- 
+2018-06-19 15:51:24,669 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] Path D:\QSP\LatestPOM\reports\ss\validateLeaveListTestTue_Jun_19_15_51_24_IST_2018.png 
+2018-06-19 15:51:24,672 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-19 15:51:24,672 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] X 
+2018-06-19 15:51:24,672 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] X 
+2018-06-19 15:51:24,672 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] X 
+2018-06-19 15:51:24,672 INFO  [Log_Tue_Jun_19_15_49_31_IST_2018] X 
+2018-06-19 15:55:14,498 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] **************************************************************************************** 
+2018-06-19 15:55:14,499 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] **************************************************************************************** 
+2018-06-19 15:55:14,499 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 setup-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-19 15:55:14,499 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] **************************************************************************************** 
+2018-06-19 15:55:14,499 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] **************************************************************************************** 
+2018-06-19 15:55:14,512 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] creating webDriver--- 
+2018-06-19 15:55:28,994 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] returning webdriver to test 
+2018-06-19 15:55:29,040 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] **************************************************************************************** 
+2018-06-19 15:55:29,040 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] **************************************************************************************** 
+2018-06-19 15:55:29,040 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 validateLoginTest1-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-19 15:55:29,040 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] **************************************************************************************** 
+2018-06-19 15:55:29,040 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] **************************************************************************************** 
+2018-06-19 15:55:29,041 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] --Started Executing Test - validateLoginTest 
+2018-06-19 15:55:30,658 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] ****Entering UserName aravind 
+2018-06-19 15:55:30,953 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] ****Entering User Password @ravindA 
+2018-06-19 15:55:31,223 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] ****Clicking on Login Button 
+2018-06-19 15:56:02,859 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] Login failed with aravind and @ravindA 
+2018-06-19 15:56:02,859 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] inside after method with 2 
+2018-06-19 15:56:02,859 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] 2 
+2018-06-19 15:56:03,065 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] Path D:\QSP\LatestPOM\reports\ss\validateLoginFailTestTue_Jun_19_15_56_02_IST_2018.png 
+2018-06-19 15:56:03,065 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-19 15:56:03,065 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] X 
+2018-06-19 15:56:03,065 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] X 
+2018-06-19 15:56:03,065 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] X 
+2018-06-19 15:56:03,065 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] X 
+2018-06-19 15:56:03,484 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] **************************************************************************************** 
+2018-06-19 15:56:03,484 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] **************************************************************************************** 
+2018-06-19 15:56:03,484 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 validateLoginTest-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-19 15:56:03,484 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] **************************************************************************************** 
+2018-06-19 15:56:03,484 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] **************************************************************************************** 
+2018-06-19 15:56:03,484 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] --Started Executing Test - validateLoginTest 
+2018-06-19 15:56:04,323 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] Launched application successfully 
+2018-06-19 15:56:04,323 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] ****Entering UserName aravind 
+2018-06-19 15:56:04,447 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] ****Entering User Password @ravindA1 
+2018-06-19 15:56:04,515 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] ****Clicking on Login Button 
+2018-06-19 15:56:07,622 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] Login Success 
+2018-06-19 15:56:07,623 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] Login to Applicaiton Success 
+2018-06-19 15:56:07,623 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] --Completeds Executing Test - validateLoginTest 
+2018-06-19 15:56:07,623 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] inside after method with 1 
+2018-06-19 15:56:07,623 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] 2 
+2018-06-19 15:56:07,624 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-19 15:56:07,624 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] X 
+2018-06-19 15:56:07,624 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] X 
+2018-06-19 15:56:07,624 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] X 
+2018-06-19 15:56:07,624 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] X 
+2018-06-19 15:56:10,969 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] creating webDriver--- 
+2018-06-19 15:56:18,038 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] returning webdriver to test 
+2018-06-19 15:56:18,047 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] **************************************************************************************** 
+2018-06-19 15:56:18,047 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] **************************************************************************************** 
+2018-06-19 15:56:18,047 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 validateLeaveListTest-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-19 15:56:18,047 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] **************************************************************************************** 
+2018-06-19 15:56:18,047 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] **************************************************************************************** 
+2018-06-19 15:56:19,507 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] ****Entering UserName aravind 
+2018-06-19 15:56:19,701 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] ****Entering User Password @ravindA1 
+2018-06-19 15:56:20,023 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] ****Clicking on Login Button 
+2018-06-19 15:56:24,629 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] Login Success 
+2018-06-19 15:56:24,629 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] Moving mouse to List Tab  
+2018-06-19 15:56:24,969 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] ---clicking on leave list--- 
+2018-06-19 15:56:57,931 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] Path D:\QSP\LatestPOM\reports\ss\validateLeaveListTestTue_Jun_19_15_56_57_IST_2018.png 
+2018-06-19 15:56:57,934 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-19 15:56:57,934 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] X 
+2018-06-19 15:56:57,934 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] X 
+2018-06-19 15:56:57,934 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] X 
+2018-06-19 15:56:57,934 INFO  [Log_Tue_Jun_19_15_55_13_IST_2018] X 

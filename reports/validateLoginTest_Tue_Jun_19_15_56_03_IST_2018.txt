@@ -1,0 +1,11 @@
+---Test case execution started---validateLoginTest-started
+---INFO-----Started Executing Test - validateLoginTest
+---PASS---Launched application successfully
+---INFO---****Entering UserName aravind
+---INFO---****Entering User Password @ravindA1
+---INFO---****Clicking on Login Button
+---PASS---Login Success
+---PASS---Login to Applicaiton Success
+---INFO-----Completeds Executing Test - validateLoginTest
+---INFO---inside after method with 1
+---INFO---2

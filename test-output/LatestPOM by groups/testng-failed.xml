@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [LatestPOM by groups]">
+  <test thread-count="5" name="GRP-smoke(failed)">
+    <groups>
+      <run>
+        <include name="smoke"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.qst.ohrm.test.ApplyLeaveTest">
+        <methods>
+          <include name="validateLeaveListTest"/>
+        </methods>
+      </class> <!-- com.qst.ohrm.test.ApplyLeaveTest -->
+      <class name="com.qst.ohrm.test.OrangeHRMLoginTest">
+        <methods>
+          <include name="validateLoginTest"/>
+        </methods>
+      </class> <!-- com.qst.ohrm.test.OrangeHRMLoginTest -->
+    </classes>
+  </test> <!-- GRP-smoke(failed) -->
+</suite> <!-- Failed suite [LatestPOM by groups] -->

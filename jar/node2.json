@@ -1,0 +1,16 @@
+{
+	"capabilities":
+		[
+			{
+				"browserName": "firefox",
+				"maxInstances": 4
+			}
+		],
+			"port":6666,
+			"hubPort":4444,
+			"hubHost":"192.168.0.102",
+			"registerCycle":10000,
+			"register":true,
+			"timeout":0,
+			"maxSession":10
+}
