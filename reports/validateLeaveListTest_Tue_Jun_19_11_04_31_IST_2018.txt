@@ -1,9 +1,0 @@
----Test case execution started---validateLeaveListTest-started
----INFO---****Entering UserName aravind
----INFO---****Entering User Password @ravindA1
----INFO---****Clicking on Login Button
----PASS---Login Success
----INFO---Moving mouse to List Tab 
----INFO------clicking on leave list---
----INFO---Path D:\QSP\LatestPOM\reports\ss\validateLeaveListTestTue_Jun_19_11_05_14_IST_2018.png
----SCREENSHOT---<a href='D:\QSP\LatestPOM\reports\ss\validateLeaveListTestTue_Jun_19_11_05_14_IST_2018.png' data-featherlight='image'><img class='report-img' src='file:///D:\QSP\LatestPOM\reports\ss\validateLeaveListTestTue_Jun_19_11_05_14_IST_2018.png' /></a>

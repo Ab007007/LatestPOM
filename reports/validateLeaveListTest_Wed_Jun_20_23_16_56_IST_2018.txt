@@ -1,5 +1,4 @@
----Test case execution started---validateLoginTest-started
----INFO-----Started Executing Test - validateLoginTest
+---Test case execution started---validateLeaveListTest-started
 ---PASS---Launched application successfully
 ---INFO---****Entering UserName aravind
 ---INFO---****Entering User Password @ravindA1

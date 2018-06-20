@@ -1,8 +1,0 @@
-org.openqa.selenium.NoSuchElementException: Unable to locate element: //h1[text()='Leave List1']
-For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.10.0', revision: '176b4a9', time: '2018-03-02T19:10:56.039Z'
-System info: host: 'AHB-LAP', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_171'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 55.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:processID: 92016, moz:profile: C:\Users\ahb\AppData\Local\..., pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 6.1, rotatable: false, specificationLevel: 0, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
-Session ID: 40913116-6f73-4636-8cc0-9f9d724dc6bf
-*** Element info: {Using=xpath, value=//h1[text()='Leave List1']}
