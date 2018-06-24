@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite configfailurepolicy="continue" guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Leave Test(failed)">
+    <classes>
+      <class name="com.qst.ohrm.test.ApplyLeaveTest">
+        <methods>
+          <include name="validateLeaveListTest"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="closeDriver"/>
+        </methods>
+      </class> <!-- com.qst.ohrm.test.ApplyLeaveTest -->
+    </classes>
+  </test> <!-- Leave Test(failed) -->
   <test thread-count="5" name="Employee Test(failed)">
     <classes>
       <class name="com.qst.ohrm.test.EmployeeTest">
         <methods>
           <include name="setup"/>
           <include name="createEmployeeTest"/>
+          <include name="createEmployeeTest1"/>
           <include name="tearDown"/>
           <include name="closeDriver"/>
         </methods>

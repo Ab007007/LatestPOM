@@ -24,7 +24,7 @@ public class PreReqTest {
 	@AfterSuite
 	public void tearDown(){
 		try{
-			ExtentReportFactory.sendReportByGMail("selenium15.intellipaat@gmail.com", "Intellipaat@1", "aru03.info@gmail.com", "TestExecution-Report", "");
+			ExtentReportFactory.sendReportByGMail("selenium15.intellipaat@gmail.com", "Intellipaat@1", "TestExecution-Report", "", "aru03.info@gmail.com","farheenfathima197@gmail.com","sujithkumar969@gmail.com","arunasundaram02@gmail.com","satish.matti@gmail.com","naveen.kkr1@gmail.com","lalithroopa056@gmail.com","kavyakc.1404@gmail.com","sushma.hv@gmail.com");
 		}catch(Exception ex){
 			System.out.println(ex);
 		}finally{

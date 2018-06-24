@@ -1292,3 +1292,180 @@ Session ID: 8eaa2d33-fa40-4561-991e-b57ac643b8fa
 2018-06-24 08:53:34,889 INFO  [Log_Sun_Jun_24_08_52_46_IST_2018] X 
 2018-06-24 08:53:34,889 INFO  [Log_Sun_Jun_24_08_52_46_IST_2018] X 
 2018-06-24 08:53:34,889 INFO  [Log_Sun_Jun_24_08_52_46_IST_2018] X 
+2018-06-24 10:23:08,106 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] **************************************************************************************** 
+2018-06-24 10:23:08,106 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] **************************************************************************************** 
+2018-06-24 10:23:08,106 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 setup-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-24 10:23:08,107 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] **************************************************************************************** 
+2018-06-24 10:23:08,107 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] **************************************************************************************** 
+2018-06-24 10:23:08,144 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] creating webDriver--- 
+2018-06-24 10:23:12,947 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] returning webdriver to test 
+2018-06-24 10:23:13,009 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] **************************************************************************************** 
+2018-06-24 10:23:13,009 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] **************************************************************************************** 
+2018-06-24 10:23:13,009 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 validateLeaveListTest-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-24 10:23:13,009 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] **************************************************************************************** 
+2018-06-24 10:23:13,009 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] **************************************************************************************** 
+2018-06-24 10:23:15,259 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] ****Entering UserName aravind 
+2018-06-24 10:23:15,417 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] ****Entering User Password @ravindA1 
+2018-06-24 10:23:15,463 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] ****Clicking on Login Button 
+2018-06-24 10:23:17,690 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] Login Success 
+2018-06-24 10:23:17,690 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] Moving mouse to List Tab  
+2018-06-24 10:23:18,039 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] ---clicking on leave list--- 
+2018-06-24 10:23:19,572 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] *** Click on leave list success*** 
+2018-06-24 10:23:19,573 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] --- Entering date--- 2018-01-01 
+2018-06-24 10:23:19,928 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] ---Entering to date ---2018-12-31 
+2018-06-24 10:23:20,193 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] ---Selecting All Check box --- 
+2018-06-24 10:23:20,193 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] --function to click on checkbox 
+2018-06-24 10:23:20,335 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] waited successfully for the element to be clickable 
+2018-06-24 10:23:20,362 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] Checkbox is not selected .. clicking on checkbox 
+2018-06-24 10:23:20,606 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] --- Entering Employee name---Employee-A LN-1 
+2018-06-24 10:23:20,698 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] ---Click on search button--- 
+2018-06-24 10:23:22,112 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] clicking on welcome link 
+2018-06-24 10:23:23,829 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-24 10:23:23,829 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] X 
+2018-06-24 10:23:23,829 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] X 
+2018-06-24 10:23:23,829 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] X 
+2018-06-24 10:23:23,829 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] X 
+2018-06-24 10:23:25,973 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] creating webDriver--- 
+2018-06-24 10:23:29,843 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] returning webdriver to test 
+2018-06-24 10:23:29,853 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] **************************************************************************************** 
+2018-06-24 10:23:29,854 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] **************************************************************************************** 
+2018-06-24 10:23:29,854 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 createEmployeeTest-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-24 10:23:29,854 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] **************************************************************************************** 
+2018-06-24 10:23:29,854 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] **************************************************************************************** 
+2018-06-24 10:23:31,988 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] ****Entering UserName aravind 
+2018-06-24 10:23:32,106 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] ****Entering User Password @ravindA1 
+2018-06-24 10:23:32,148 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] ****Clicking on Login Button 
+2018-06-24 10:23:34,737 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] Login Success 
+2018-06-24 10:23:34,737 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] Moving mouse to List Tab  
+2018-06-24 10:23:34,987 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] ---clciiking on save button--- 
+2018-06-24 10:23:36,101 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] ---Entering UserNAme--- 
+2018-06-24 10:23:36,213 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] ---Entering User Last name--- 
+2018-06-24 10:23:36,288 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] ---clciiking on save button--- 
+2018-06-24 10:23:38,264 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-24 10:23:38,264 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] X 
+2018-06-24 10:23:38,264 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] X 
+2018-06-24 10:23:38,264 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] X 
+2018-06-24 10:23:38,264 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] X 
+2018-06-24 10:23:38,384 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-24 10:23:38,385 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] X 
+2018-06-24 10:23:38,385 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] X 
+2018-06-24 10:23:38,385 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] X 
+2018-06-24 10:23:38,385 INFO  [Log_Sun_Jun_24_10_23_07_IST_2018] X 
+2018-06-24 10:25:16,530 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] **************************************************************************************** 
+2018-06-24 10:25:16,531 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] **************************************************************************************** 
+2018-06-24 10:25:16,531 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 setup-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-24 10:25:16,531 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] **************************************************************************************** 
+2018-06-24 10:25:16,531 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] **************************************************************************************** 
+2018-06-24 10:25:16,567 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] creating webDriver--- 
+2018-06-24 10:25:21,466 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] returning webdriver to test 
+2018-06-24 10:25:21,525 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] **************************************************************************************** 
+2018-06-24 10:25:21,525 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] **************************************************************************************** 
+2018-06-24 10:25:21,525 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 validateLeaveListTest-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-24 10:25:21,525 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] **************************************************************************************** 
+2018-06-24 10:25:21,525 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] **************************************************************************************** 
+2018-06-24 10:25:23,741 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] ****Entering UserName aravind 
+2018-06-24 10:25:23,897 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] ****Entering User Password @ravindA1 
+2018-06-24 10:25:23,941 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] ****Clicking on Login Button 
+2018-06-24 10:25:26,624 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] Login Success 
+2018-06-24 10:25:26,624 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] Moving mouse to List Tab  
+2018-06-24 10:25:26,944 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] ---clicking on leave list--- 
+2018-06-24 10:25:28,513 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] *** Click on leave list success*** 
+2018-06-24 10:25:28,514 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] --- Entering date--- 2018-01-01 
+2018-06-24 10:25:28,900 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] ---Entering to date ---2018-12-31 
+2018-06-24 10:25:29,167 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] ---Selecting All Check box --- 
+2018-06-24 10:25:29,167 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] --function to click on checkbox 
+2018-06-24 10:25:29,283 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] waited successfully for the element to be clickable 
+2018-06-24 10:25:29,321 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] Checkbox is not selected .. clicking on checkbox 
+2018-06-24 10:25:29,581 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] --- Entering Employee name---Employee-A LN-1 
+2018-06-24 10:25:29,689 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] ---Click on search button--- 
+2018-06-24 10:25:30,884 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] clicking on welcome link 
+2018-06-24 10:25:32,278 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-24 10:25:32,278 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] X 
+2018-06-24 10:25:32,278 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] X 
+2018-06-24 10:25:32,278 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] X 
+2018-06-24 10:25:32,278 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] X 
+2018-06-24 10:25:34,378 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] creating webDriver--- 
+2018-06-24 10:25:38,358 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] returning webdriver to test 
+2018-06-24 10:25:38,377 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] **************************************************************************************** 
+2018-06-24 10:25:38,378 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] **************************************************************************************** 
+2018-06-24 10:25:38,378 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 createEmployeeTest-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-24 10:25:38,378 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] **************************************************************************************** 
+2018-06-24 10:25:38,378 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] **************************************************************************************** 
+2018-06-24 10:25:40,400 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] ****Entering UserName aravind 
+2018-06-24 10:25:40,654 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] ****Entering User Password @ravindA1 
+2018-06-24 10:25:40,878 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] ****Clicking on Login Button 
+2018-06-24 10:25:43,377 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] Login Success 
+2018-06-24 10:25:43,378 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] Moving mouse to List Tab  
+2018-06-24 10:25:43,655 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] ---clciiking on save button--- 
+2018-06-24 10:25:44,671 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] ---Entering UserNAme--- 
+2018-06-24 10:25:44,748 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] ---Entering User Last name--- 
+2018-06-24 10:25:44,818 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] ---clciiking on save button--- 
+2018-06-24 10:25:46,701 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-24 10:25:46,702 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] X 
+2018-06-24 10:25:46,702 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] X 
+2018-06-24 10:25:46,702 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] X 
+2018-06-24 10:25:46,702 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] X 
+2018-06-24 10:25:46,801 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-24 10:25:46,802 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] X 
+2018-06-24 10:25:46,802 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] X 
+2018-06-24 10:25:46,802 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] X 
+2018-06-24 10:25:46,802 INFO  [Log_Sun_Jun_24_10_25_16_IST_2018] X 
+2018-06-24 10:31:12,608 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] **************************************************************************************** 
+2018-06-24 10:31:12,608 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] **************************************************************************************** 
+2018-06-24 10:31:12,608 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 setup-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-24 10:31:12,608 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] **************************************************************************************** 
+2018-06-24 10:31:12,608 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] **************************************************************************************** 
+2018-06-24 10:31:12,645 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] creating webDriver--- 
+2018-06-24 10:31:17,805 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] returning webdriver to test 
+2018-06-24 10:31:17,886 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] **************************************************************************************** 
+2018-06-24 10:31:17,886 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] **************************************************************************************** 
+2018-06-24 10:31:17,886 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 validateLeaveListTest-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-24 10:31:17,886 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] **************************************************************************************** 
+2018-06-24 10:31:17,886 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] **************************************************************************************** 
+2018-06-24 10:31:19,759 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] ****Entering UserName aravind 
+2018-06-24 10:31:20,252 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] ****Entering User Password @ravindA1 
+2018-06-24 10:31:20,466 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] ****Clicking on Login Button 
+2018-06-24 10:31:23,225 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] Login Success 
+2018-06-24 10:31:23,227 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] Moving mouse to List Tab  
+2018-06-24 10:31:23,592 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] ---clicking on leave list--- 
+2018-06-24 10:31:25,445 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] *** Click on leave list success*** 
+2018-06-24 10:31:25,446 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] --- Entering date--- 2018-01-01 
+2018-06-24 10:31:25,862 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] ---Entering to date ---2018-12-31 
+2018-06-24 10:31:26,264 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] ---Selecting All Check box --- 
+2018-06-24 10:31:26,264 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] --function to click on checkbox 
+2018-06-24 10:31:26,464 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] waited successfully for the element to be clickable 
+2018-06-24 10:31:26,635 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] Checkbox is not selected .. clicking on checkbox 
+2018-06-24 10:31:27,005 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] --- Entering Employee name---Employee-A LN-1 
+2018-06-24 10:31:27,212 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] ---Click on search button--- 
+2018-06-24 10:31:29,079 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] clicking on welcome link 
+2018-06-24 10:31:30,907 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-24 10:31:30,907 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] X 
+2018-06-24 10:31:30,907 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] X 
+2018-06-24 10:31:30,907 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] X 
+2018-06-24 10:31:30,907 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] X 
+2018-06-24 10:31:33,288 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] creating webDriver--- 
+2018-06-24 10:31:38,024 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] returning webdriver to test 
+2018-06-24 10:31:38,046 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] **************************************************************************************** 
+2018-06-24 10:31:38,047 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] **************************************************************************************** 
+2018-06-24 10:31:38,047 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 createEmployeeTest-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-24 10:31:38,047 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] **************************************************************************************** 
+2018-06-24 10:31:38,047 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] **************************************************************************************** 
+2018-06-24 10:31:40,873 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] ****Entering UserName aravind 
+2018-06-24 10:31:41,202 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] ****Entering User Password @ravindA1 
+2018-06-24 10:31:41,469 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] ****Clicking on Login Button 
+2018-06-24 10:31:44,750 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] Login Success 
+2018-06-24 10:31:44,750 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] Moving mouse to List Tab  
+2018-06-24 10:31:45,063 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] ---clciiking on save button--- 
+2018-06-24 10:31:46,226 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] ---Entering UserNAme--- 
+2018-06-24 10:31:46,313 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] ---Entering User Last name--- 
+2018-06-24 10:31:46,389 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] ---clciiking on save button--- 
+2018-06-24 10:31:48,504 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-24 10:31:48,505 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] X 
+2018-06-24 10:31:48,505 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] X 
+2018-06-24 10:31:48,505 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] X 
+2018-06-24 10:31:48,505 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] X 
+2018-06-24 10:31:48,567 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-24 10:31:48,567 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] X 
+2018-06-24 10:31:48,569 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] X 
+2018-06-24 10:31:48,569 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] X 
+2018-06-24 10:31:48,569 INFO  [Log_Sun_Jun_24_10_31_12_IST_2018] X 
