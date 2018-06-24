@@ -23,7 +23,7 @@ import com.relevantcodes.extentreports.ExtentTest;
 public class OrangeHRMLoginTest {
 
 	private static WebDriver driver = null;
-	OrangeHRMLoginPage oLp= null;
+	OrangeHRMLoginPage oLoginpage= null;
 	OrangeDashboardPage odp = null;
 	
 	ConfigFileReader configFileReader;
@@ -34,33 +34,24 @@ public class OrangeHRMLoginTest {
 	@BeforeClass
  	public void setup(){
  		configFileReader= new ConfigFileReader();
-// 		Log.configureReport();
-// 		Log.startReport("setup");
 		driver = DriverUtils.getWebDriver();
-		oLp = new OrangeHRMLoginPage(driver,test);
+		oLoginpage = new OrangeHRMLoginPage(driver,test);
 		odp = new OrangeDashboardPage(driver,test);
  	}
  	
 	@Test(groups={"smoke"})
 	public void validateLoginTest(){
-//		Log.startReport("validateLoginTest");
-//		Log.info("--Started Executing Test - validateLoginTest");
-//		OrangeHRMUtils.launchApp(driver,configFileReader.getApplicationUrl());
 		OrangeHRMUtils.startTest(driver, "validateLoginTest");
-		Log.pass("Launched application successfully");
-		oLp.loginToOrangeHRM(driver, "aravind", "@ravindA1");
-		Log.pass("Login to Applicaiton Success");
+		oLoginpage.loginToOrangeHRM(driver, configFileReader.getUserName(), configFileReader.getPasswordName());
+			Log.pass("Login to Applicaiton Success");
 		Log.info("--Completeds Executing Test - validateLoginTest");
  		//Log.endReport("validateLoginTest");
 	}
 	
 	@Test
 	public void validateLoginFailTest(){
-//		Log.startReport("validateLoginTest1");
-//		Log.info("--Started Executing Test - validateLoginTest");
-//		OrangeHRMUtils.launchApp(driver,configFileReader.getApplicationUrl());
-		OrangeHRMUtils.startTest(driver, "validateLoginFailTest");
-		oLp.loginToOrangeHRM(driver, "aravind", "@ravindA");
+		OrangeHRMUtils.startTest(driver, "validateLoginTest");
+		oLoginpage.loginToOrangeHRM(driver, configFileReader.getUserName(), configFileReader.getPasswordName() + 1);
 		Log.info("completed Successfully " );
  	//	Log.endReport("validateLoginTest1");
 	}

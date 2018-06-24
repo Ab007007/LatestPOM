@@ -58,7 +58,7 @@ public class ExtentReportFactory {
 	 * @throws EmailException 
 	 */
 	
-	public static void sendReportByGMail(String from, String pass, String subject, String body, String... to) throws EmailException 
+	public static void sendReportByGMail(String... to) throws EmailException 
 	{
 		EmailAttachment attachment = new EmailAttachment();
 		  attachment.setPath(ExtentReportFactory.getPath());
@@ -70,12 +70,18 @@ public class ExtentReportFactory {
 		  MultiPartEmail email = new MultiPartEmail();
 		  email.setHostName("smtp.gmail.com");
 		  //email.addTo(to, "Aravinda HB");
-		  email.addTo(to);
-		  email.setAuthenticator(new DefaultAuthenticator(from, pass));
+		  if(to.length==0){
+			  email.addTo("aru03.info@gmail.com");
+		  }else
+		  {
+			  email.addTo(to);
+		  }
+		  email.setAuthenticator(new DefaultAuthenticator("selenium15.intellipaat@gmail.com", "Intellipaat@1"));
 		  email.setSSLOnConnect(true);
-		  email.setFrom(from, "QSP-OrangeHRM Automation Team");
-		  email.setSubject(subject);
-		  email.setMsg("Refer the attachment");
+		  email.setFrom("selenium15.intellipaat@gmail.com", "QSP-OrangeHRM Automation Team");
+		  email.setSubject("Automation Test Execution report for OrangeHRM");
+		  email.setMsg("Refer the attachment fot the detailed Execution Report");
+		  
 
 		  // add the attachment
 		  email.attach(attachment);

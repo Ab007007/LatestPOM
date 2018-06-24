@@ -43,6 +43,7 @@ public class ApplyLeaveTest {
  	
 	@BeforeClass
  	public void setup(){
+		configFileReader = new ConfigFileReader();
 		driver = DriverUtils.getWebDriver();
 		oLoginpage = new OrangeHRMLoginPage(driver,test);
 		odashboardpage = new OrangeDashboardPage(driver,test);
@@ -51,10 +52,8 @@ public class ApplyLeaveTest {
 	
 	@Test(groups={"smoke","regression"})
 	public void validateLeaveListTest(){
-//		Log.startReport("validateLeaveListTest");
-//		OrangeHRMUtils.launchApp(driver,configFileReader.getApplicationUrl());
 		OrangeHRMUtils.startTest(driver, "validateLeaveListTest");
-		oLoginpage.loginToOrangeHRM(driver, "aravind", "@ravindA1");
+		oLoginpage.loginToOrangeHRM(driver, configFileReader.getUserName(), configFileReader.getPasswordName());
 		
 		oleavePage.moveMouseOnLeaveTab();
 		oleavePage.clickOnleaveList();
@@ -65,7 +64,13 @@ public class ApplyLeaveTest {
 		oleavePage.clickOnSearchButton();
 		odashboardpage.clickOnLogoutLink();
 	}
-	
+
+	@Test 
+	public void validateAddEntitelmet(){
+		OrangeHRMUtils.startTest(driver, "validateAddEntitelmet");
+		oLoginpage.loginToOrangeHRM(driver, configFileReader.getUserName(),configFileReader.getPasswordName());
+	}
+
 	@AfterMethod
 	public void tearDown(ITestResult testResult) throws IOException {
 		if (testResult.getStatus() == ITestResult.FAILURE) {

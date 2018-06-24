@@ -40,7 +40,7 @@ public class EmployeeTest {
 	ExtentTest test;
  	@BeforeClass
  	public void setup(){
- 		
+ 		configFileReader = new ConfigFileReader();
  		driver = DriverUtils.getWebDriver();
 		oLoginpage = new OrangeHRMLoginPage(driver,test);
 		odashboardpage = new OrangeDashboardPage(driver,test);
@@ -52,7 +52,7 @@ public class EmployeeTest {
  	@Test(groups="regression")
  	public void createEmployeeTest(){
  		OrangeHRMUtils.startTest(driver, "createEmployeeTest");
-		oLoginpage.loginToOrangeHRM(driver, "aravind", "@ravindA1");
+		oLoginpage.loginToOrangeHRM(driver, configFileReader.getUserName(), configFileReader.getPasswordName());
 		pAddPage.moveMouseOnLeaveTab();
 		pAddPage.clickAddEmployee();
 		pAddPage.enterUN("AAAA");

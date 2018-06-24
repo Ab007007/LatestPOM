@@ -27,7 +27,6 @@ public class OrangeHRMLeavePage {
 		PageFactory.initElements(driver, this);
 		
 	}
-	Log log = null;
 	WebDriver driver = null;
 	WebDriverWait wait =null;
 	

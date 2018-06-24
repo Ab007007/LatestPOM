@@ -50,7 +50,7 @@ public class DriverUtils {
 	 * @return
 	 */
 	public static WebDriver getWebDriver(String type) {
-		configFileReader= new ConfigFileReader();
+	//	configFileReader= new ConfigFileReader();
 		Log.info("Creating a Driver with " + type);
 		driver = null;
 		switch(type) {
@@ -88,7 +88,7 @@ public class DriverUtils {
 	}
 	
 	public static WebDriver getRemoteFFDriver(){
-		configFileReader= new ConfigFileReader();
+		//configFileReader= new ConfigFileReader();
 		nodeUrl=configFileReader.getNodeUrl(); // url of node
 		
 		FirefoxOptions options = new FirefoxOptions();
@@ -109,7 +109,7 @@ public class DriverUtils {
 	}
 	
 	public static WebDriver getRemoteChromeDriver(){
-		configFileReader= new ConfigFileReader();
+		//configFileReader= new ConfigFileReader();
 		nodeUrl=configFileReader.getNodeUrl(); // url of node
 
 		ChromeOptions options = new ChromeOptions();
@@ -226,10 +226,11 @@ public class DriverUtils {
 	
 	
 	public static void waitForFluentVisible(WebElement ele){
+		Log.info("---");
 		FluentWait<WebElement> fWait = new FluentWait<WebElement>(ele)
 				
-//				.withTimeout(Duration.ofSeconds(100))
-//				.pollingEvery(Duration.ofMillis(100))
+				.withTimeout(Duration.ofSeconds(100))
+				.pollingEvery(Duration.ofMillis(100))
 				.ignoring(NoSuchElementException.class)
 				.ignoring(TimeoutException.class);
 		
@@ -238,6 +239,7 @@ public class DriverUtils {
 			public Boolean apply(WebElement ele) {
 				System.out.println("waiting .....");
 				if(ele.isDisplayed()) {
+					System.out.println(ele.getText());
 					System.out.println("element found... ");
 						return true;
 				}

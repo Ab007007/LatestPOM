@@ -10,16 +10,16 @@ public class OrangeHRMUtils extends ConfigFileReader {
 	 */
 	
 	public static void launchApp(WebDriver driver , String url) {
-		System.out.println("Launching the applicaiton ..." + url);
+		Log.info("Launching the applicaiton ..." + url);
 		driver.get(url);
 		
-		System.out.println("Application Launched Successfully..");
+		Log.info("Application Launched Successfully..");
 	}
 	public static void launchRemoteApp(WebDriver driver , String url) {
-		System.out.println("Launching the applicaiton ..." + url);
+		Log.info("Launching the applicaiton ..." + url);
 		driver.navigate().to(url);
 		
-		System.out.println("Application Launched Successfully..");
+		Log.info("Application Launched Successfully..");
 	}
 	
 	public static void startTest(WebDriver driver, String testname){
