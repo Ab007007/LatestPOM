@@ -2,8 +2,11 @@ package com.qst.ohrm.utils;
 
 import java.net.MalformedURLException;
 import java.net.URL;
+import java.time.Duration;
 import java.util.concurrent.TimeUnit;
 
+import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.Platform;
 import org.openqa.selenium.UnexpectedAlertBehaviour;
 import org.openqa.selenium.WebDriver;
@@ -13,11 +16,15 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.ie.InternetExplorerDriver;
+import org.openqa.selenium.net.UrlChecker.TimeoutException;
 import org.openqa.selenium.remote.CapabilityType;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.FluentWait;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
+
+import com.google.common.base.Function;
 
 
 public class DriverUtils {
@@ -203,6 +210,46 @@ public class DriverUtils {
 		
 	}
 	
+	public static WebElement getClickableElement(WebDriver driver, WebElement ele) {
+		//	System.out.println("Getting element By " + type  + "-" + value);
+			WebDriverWait wait = null;
+			try{
+				wait = new WebDriverWait(driver, 65);
+				wait.until(ExpectedConditions.elementToBeClickable(ele));
+			}catch(Exception ex){
+				Log.info("----getClickableElement---" + ex.getMessage());
+				Log.writeToFailFile(ex.toString());
+			}
+			return ele;	
+			
+		}
 	
+	
+	public static void waitForFluentVisible(WebElement ele){
+		FluentWait<WebElement> fWait = new FluentWait<WebElement>(ele)
+				
+//				.withTimeout(Duration.ofSeconds(100))
+//				.pollingEvery(Duration.ofMillis(100))
+				.ignoring(NoSuchElementException.class)
+				.ignoring(TimeoutException.class);
+		
+		fWait.until(new Function<WebElement, Boolean>() {
+			
+			public Boolean apply(WebElement ele) {
+				System.out.println("waiting .....");
+				if(ele.isDisplayed()) {
+					System.out.println("element found... ");
+						return true;
+				}
+				else
+					System.out.println("element not found...");
+					return false;
+			}
+			
+		});
+		
+		System.out.println("wait ended");
+		
+	}
 	
 }

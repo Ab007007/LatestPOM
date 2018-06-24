@@ -25,5 +25,9 @@
 	<classpathentry kind="lib" path="D:/QSP/LatestPOM/jar/selenium-java-3.10.0/libs/okio-1.13.0.jar"/>
 	<classpathentry kind="lib" path="D:/QSP/LatestPOM/jar/log4j-1.2.12.jar"/>
 	<classpathentry kind="lib" path="D:/QSP/LatestPOM/jar/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/QSP/LatestPOM/jar/javax.mail-1.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/QSP/LatestPOM/jar/email/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/QSP/LatestPOM/jar/email/commons-email-1.5.jar"/>
+	<classpathentry kind="lib" path="D:/QSP/LatestPOM/jar/email/javax.mail-1.6.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

@@ -1,29 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite configfailurepolicy="continue" guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
-  <test thread-count="5" name="Default test(failed)">
+  <test thread-count="5" name="Employee Test(failed)">
     <classes>
-      <class name="com.qst.ohrm.test.OrangeHRMLoginTest">
+      <class name="com.qst.ohrm.test.EmployeeTest">
         <methods>
-          <include name="tearDown"/>
-          <include name="tearDown"/>
           <include name="setup"/>
-          <include name="validateLoginFailTest"/>
-        </methods>
-      </class> <!-- com.qst.ohrm.test.OrangeHRMLoginTest -->
-    </classes>
-  </test> <!-- Default test(failed) -->
-  <test thread-count="5" name="Leave Test(failed)">
-    <classes>
-      <class name="com.qst.ohrm.test.ApplyLeaveTest">
-        <methods>
-          <include name="validateLeaveListTest"/>
-          <include name="setup"/>
+          <include name="createEmployeeTest"/>
           <include name="tearDown"/>
-          <include name="tearDown"/>
-          <include name="preConfig"/>
+          <include name="closeDriver"/>
         </methods>
-      </class> <!-- com.qst.ohrm.test.ApplyLeaveTest -->
+      </class> <!-- com.qst.ohrm.test.EmployeeTest -->
     </classes>
-  </test> <!-- Leave Test(failed) -->
+  </test> <!-- Employee Test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

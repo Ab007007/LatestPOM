@@ -1,5 +1,0 @@
----Test case execution started---validateLeaveListTest-started
----INFO---inside after method with 2
----INFO---2
----INFO---Path D:\QSP\LatestPOM\reports\ss\validateLoginFailTestWed_Jun_20_23_06_02_IST_2018.png
----SCREENSHOT---<a href='D:\QSP\LatestPOM\reports\ss\validateLoginFailTestWed_Jun_20_23_06_02_IST_2018.png' data-featherlight='image'><img class='report-img' src='file:///D:\QSP\LatestPOM\reports\ss\validateLoginFailTestWed_Jun_20_23_06_02_IST_2018.png' /></a>

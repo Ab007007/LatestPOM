@@ -40,13 +40,7 @@ public class ApplyLeaveTest {
 	DriverUtils dUtils=null;
 	ExtentReports reports;
 	ExtentTest test;
- 	@BeforeSuite
- 	public void preConfig(){
- 		configFileReader= new ConfigFileReader();
- 		Log.configureReport();
- 		Log.startReport("setup");
-		
- 	}
+ 	
 	@BeforeClass
  	public void setup(){
 		driver = DriverUtils.getWebDriver();
@@ -57,8 +51,9 @@ public class ApplyLeaveTest {
 	
 	@Test(groups={"smoke","regression"})
 	public void validateLeaveListTest(){
-		Log.startReport("validateLeaveListTest");
-		OrangeHRMUtils.launchApp(driver,configFileReader.getApplicationUrl());
+//		Log.startReport("validateLeaveListTest");
+//		OrangeHRMUtils.launchApp(driver,configFileReader.getApplicationUrl());
+		OrangeHRMUtils.startTest(driver, "validateLeaveListTest");
 		oLoginpage.loginToOrangeHRM(driver, "aravind", "@ravindA1");
 		
 		oleavePage.moveMouseOnLeaveTab();
@@ -85,9 +80,9 @@ public class ApplyLeaveTest {
 		Log.endReport();
 	}
 	
-	@AfterSuite
-	public void tearDown(){
+	@AfterClass
+	public void closeDriver(){
 		driver.close();
-		driver = null;
+		driver=null;
 	}
 }

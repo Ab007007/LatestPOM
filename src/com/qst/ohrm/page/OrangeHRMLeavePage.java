@@ -55,7 +55,7 @@ public class OrangeHRMLeavePage {
 	@FindBy(id="btnSearch")
 	WebElement searchButton;
 	
-//	@FindBy(xpath="//h1[text()='%s']")
+//	@FindBy(xpath="//h1[text()='Leave List']")
 //	WebElement pagetitle;
 
 	
@@ -86,9 +86,10 @@ public class OrangeHRMLeavePage {
 	
 	public void clickOnleaveList(){
 		Log.info("---clicking on leave list---");
+		DriverUtils.getClickableElement(driver, leaveList);
 		leaveList.click();
-		DriverUtils.getVisibleElement(driver, pagetitle("Leave List1"));
-		Assert.assertTrue(pagetitle("Leave List1").isDisplayed());
+		DriverUtils.getVisibleElement(driver, pagetitle("Leave List"));
+		Assert.assertTrue(pagetitle("Leave List").isDisplayed());
 		Log.pass("*** Click on leave list success***");
 	}
 	/**

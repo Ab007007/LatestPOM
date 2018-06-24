@@ -1,3 +1,0 @@
----Test case execution started---validateLeaveListTest-started
----INFO---Path D:\QSP\LatestPOM\reports\ss\validateLeaveListTestWed_Jun_20_23_06_09_IST_2018.png
----SCREENSHOT---<a href='D:\QSP\LatestPOM\reports\ss\validateLeaveListTestWed_Jun_20_23_06_09_IST_2018.png' data-featherlight='image'><img class='report-img' src='file:///D:\QSP\LatestPOM\reports\ss\validateLeaveListTestWed_Jun_20_23_06_09_IST_2018.png' /></a>

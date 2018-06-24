@@ -67,7 +67,7 @@ public class LoginInRemote {
 		Log.endReport();
 	}
 	
-	//@AfterClass
+	@AfterClass
 	public void tearDown(){
 		driver.close();
 		driver = null;

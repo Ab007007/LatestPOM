@@ -43,9 +43,10 @@ public class OrangeHRMLoginTest {
  	
 	@Test(groups={"smoke"})
 	public void validateLoginTest(){
-		Log.startReport("validateLoginTest");
-		Log.info("--Started Executing Test - validateLoginTest");
-		OrangeHRMUtils.launchApp(driver,configFileReader.getApplicationUrl());
+//		Log.startReport("validateLoginTest");
+//		Log.info("--Started Executing Test - validateLoginTest");
+//		OrangeHRMUtils.launchApp(driver,configFileReader.getApplicationUrl());
+		OrangeHRMUtils.startTest(driver, "validateLoginTest");
 		Log.pass("Launched application successfully");
 		oLp.loginToOrangeHRM(driver, "aravind", "@ravindA1");
 		Log.pass("Login to Applicaiton Success");
@@ -55,9 +56,10 @@ public class OrangeHRMLoginTest {
 	
 	@Test
 	public void validateLoginFailTest(){
-		Log.startReport("validateLoginTest1");
-		Log.info("--Started Executing Test - validateLoginTest");
-		OrangeHRMUtils.launchApp(driver,configFileReader.getApplicationUrl());
+//		Log.startReport("validateLoginTest1");
+//		Log.info("--Started Executing Test - validateLoginTest");
+//		OrangeHRMUtils.launchApp(driver,configFileReader.getApplicationUrl());
+		OrangeHRMUtils.startTest(driver, "validateLoginFailTest");
 		oLp.loginToOrangeHRM(driver, "aravind", "@ravindA");
 		Log.info("completed Successfully " );
  	//	Log.endReport("validateLoginTest1");

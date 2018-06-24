@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite configfailurepolicy="continue" guice-stage="DEVELOPMENT" name="Default suite">
+  <test thread-count="5" verbose="2" name="PreReqTest">
+    <classes>
+      <class name="com.qst.ohrm.test.PreReqTest"/>
+    </classes>
+  </test> <!-- PreReqTest -->
+   <test thread-count="5" verbose="2" name="Login">
+    <classes>
+      <class name="com.qst.ohrm.test.OrangeHRMLoginTest"/>
+    </classes>
+  </test> <!-- PreReqTest -->
+</suite> <!-- Default suite -->
+          
