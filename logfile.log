@@ -1909,3 +1909,1135 @@ Session ID: 8eaa2d33-fa40-4561-991e-b57ac643b8fa
 2018-06-24 19:06:41,518 INFO  [Log_Sun_Jun_24_19_05_41_IST_2018] X 
 2018-06-24 19:06:41,518 INFO  [Log_Sun_Jun_24_19_05_41_IST_2018] X 
 2018-06-24 19:06:41,518 INFO  [Log_Sun_Jun_24_19_05_41_IST_2018] X 
+2018-06-25 14:10:58,337 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] **************************************************************************************** 
+2018-06-25 14:10:58,337 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] **************************************************************************************** 
+2018-06-25 14:10:58,337 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 setup-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-25 14:10:58,337 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] **************************************************************************************** 
+2018-06-25 14:10:58,337 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] **************************************************************************************** 
+2018-06-25 14:10:58,387 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] creating webDriver--- 
+2018-06-25 14:11:04,111 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] returning webdriver to test 
+2018-06-25 14:11:04,270 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] **************************************************************************************** 
+2018-06-25 14:11:04,270 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] **************************************************************************************** 
+2018-06-25 14:11:04,270 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 validateAddEntitelmet-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-25 14:11:04,270 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] **************************************************************************************** 
+2018-06-25 14:11:04,270 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] **************************************************************************************** 
+2018-06-25 14:11:04,270 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] Launching the applicaiton ...http://localhost/orangehrm-4.1/symfony/web/index.php/auth/login 
+2018-06-25 14:11:07,276 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] Application Launched Successfully.. 
+2018-06-25 14:11:07,276 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] ****Entering UserName aravind 
+2018-06-25 14:11:07,543 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] ****Entering User Password @ravindA1 
+2018-06-25 14:11:07,605 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] ****Clicking on Login Button 
+2018-06-25 14:11:10,253 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] Login Success 
+2018-06-25 14:11:10,282 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-25 14:11:10,282 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] X 
+2018-06-25 14:11:10,282 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] X 
+2018-06-25 14:11:10,282 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] X 
+2018-06-25 14:11:10,283 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] X 
+2018-06-25 14:11:10,875 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] **************************************************************************************** 
+2018-06-25 14:11:10,875 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] **************************************************************************************** 
+2018-06-25 14:11:10,875 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 validateLeaveListTest-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-25 14:11:10,876 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] **************************************************************************************** 
+2018-06-25 14:11:10,876 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] **************************************************************************************** 
+2018-06-25 14:11:10,876 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] Launching the applicaiton ...http://localhost/orangehrm-4.1/symfony/web/index.php/auth/login 
+2018-06-25 14:11:11,460 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] Application Launched Successfully.. 
+2018-06-25 14:11:11,460 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] ****Entering UserName aravind 
+2018-06-25 14:11:11,531 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] ****Entering User Password @ravindA1 
+2018-06-25 14:11:11,571 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] ****Clicking on Login Button 
+2018-06-25 14:11:13,235 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] Login Success 
+2018-06-25 14:11:13,235 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] Moving mouse to List Tab  
+2018-06-25 14:11:13,537 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] ---clicking on leave list--- 
+2018-06-25 14:11:44,238 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] Path D:\QSP\LatestPOM\reports\ss\validateLeaveListTestMon_Jun_25_14_11_44_IST_2018.png 
+2018-06-25 14:11:44,238 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-25 14:11:44,238 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] X 
+2018-06-25 14:11:44,238 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] X 
+2018-06-25 14:11:44,238 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] X 
+2018-06-25 14:11:44,238 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] X 
+2018-06-25 14:11:46,340 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] creating webDriver--- 
+2018-06-25 14:11:50,257 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] returning webdriver to test 
+2018-06-25 14:11:50,277 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] **************************************************************************************** 
+2018-06-25 14:11:50,278 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] **************************************************************************************** 
+2018-06-25 14:11:50,278 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 createEmployeeTest-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-25 14:11:50,278 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] **************************************************************************************** 
+2018-06-25 14:11:50,278 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] **************************************************************************************** 
+2018-06-25 14:11:50,278 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] Launching the applicaiton ...http://localhost/orangehrm-4.1/symfony/web/index.php/auth/login 
+2018-06-25 14:11:52,177 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] Application Launched Successfully.. 
+2018-06-25 14:11:52,178 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] ****Entering UserName aravind 
+2018-06-25 14:11:52,645 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] ****Entering User Password @ravindA1 
+2018-06-25 14:11:52,915 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] ****Clicking on Login Button 
+2018-06-25 14:11:55,361 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] Login Success 
+2018-06-25 14:11:55,361 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] Moving mouse to List Tab  
+2018-06-25 14:11:55,659 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] ---clciiking on save button--- 
+2018-06-25 14:11:55,659 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] --- 
+2018-06-25 14:11:56,924 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] ---Entering UserNAme--- 
+2018-06-25 14:11:57,035 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] ---Entering User Last name--- 
+2018-06-25 14:11:57,095 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] ---clciiking on save button--- 
+2018-06-25 14:11:59,211 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-25 14:11:59,211 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] X 
+2018-06-25 14:11:59,211 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] X 
+2018-06-25 14:11:59,211 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] X 
+2018-06-25 14:11:59,211 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] X 
+2018-06-25 14:11:59,289 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-25 14:11:59,289 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] X 
+2018-06-25 14:11:59,289 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] X 
+2018-06-25 14:11:59,289 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] X 
+2018-06-25 14:11:59,289 INFO  [Log_Mon_Jun_25_14_10_58_IST_2018] X 
+2018-06-25 14:24:25,229 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] **************************************************************************************** 
+2018-06-25 14:24:25,229 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] **************************************************************************************** 
+2018-06-25 14:24:25,229 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 setup-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-25 14:24:25,229 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] **************************************************************************************** 
+2018-06-25 14:24:25,230 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] **************************************************************************************** 
+2018-06-25 14:24:25,264 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] creating webDriver--- 
+2018-06-25 14:24:30,136 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] returning webdriver to test 
+2018-06-25 14:24:30,208 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] **************************************************************************************** 
+2018-06-25 14:24:30,208 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] **************************************************************************************** 
+2018-06-25 14:24:30,208 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 validateAddEntitelmet-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-25 14:24:30,208 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] **************************************************************************************** 
+2018-06-25 14:24:30,209 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] **************************************************************************************** 
+2018-06-25 14:24:30,209 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] Launching the applicaiton ...http://localhost/orangehrm-4.1/symfony/web/index.php/auth/login 
+2018-06-25 14:24:31,945 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] Application Launched Successfully.. 
+2018-06-25 14:24:31,945 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] ****Entering UserName aravind 
+2018-06-25 14:24:32,419 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] ****Entering User Password @ravindA1 
+2018-06-25 14:24:32,527 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] ****Clicking on Login Button 
+2018-06-25 14:24:35,288 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] Login Success 
+2018-06-25 14:24:35,293 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-25 14:24:35,293 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] X 
+2018-06-25 14:24:35,293 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] X 
+2018-06-25 14:24:35,294 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] X 
+2018-06-25 14:24:35,294 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] X 
+2018-06-25 14:24:36,042 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] **************************************************************************************** 
+2018-06-25 14:24:36,043 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] **************************************************************************************** 
+2018-06-25 14:24:36,043 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 validateLeaveListTest-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-25 14:24:36,043 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] **************************************************************************************** 
+2018-06-25 14:24:36,043 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] **************************************************************************************** 
+2018-06-25 14:24:36,044 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] Launching the applicaiton ...http://localhost/orangehrm-4.1/symfony/web/index.php/auth/login 
+2018-06-25 14:24:36,768 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] Application Launched Successfully.. 
+2018-06-25 14:24:36,768 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] ****Entering UserName aravind 
+2018-06-25 14:24:36,839 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] ****Entering User Password @ravindA1 
+2018-06-25 14:24:36,879 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] ****Clicking on Login Button 
+2018-06-25 14:24:38,448 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] Login Success 
+2018-06-25 14:24:38,448 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] Moving mouse to List Tab  
+2018-06-25 14:24:38,728 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] ---clicking on leave list--- 
+2018-06-25 14:25:09,321 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] Path D:\QSP\LatestPOM\reports\ss\validateLeaveListTestMon_Jun_25_14_25_09_IST_2018.png 
+2018-06-25 14:25:09,321 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-25 14:25:09,321 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] X 
+2018-06-25 14:25:09,321 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] X 
+2018-06-25 14:25:09,321 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] X 
+2018-06-25 14:25:09,321 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] X 
+2018-06-25 14:25:11,438 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] creating webDriver--- 
+2018-06-25 14:25:15,882 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] returning webdriver to test 
+2018-06-25 14:25:15,891 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] **************************************************************************************** 
+2018-06-25 14:25:15,891 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] **************************************************************************************** 
+2018-06-25 14:25:15,891 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 createEmployeeTest-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-25 14:25:15,892 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] **************************************************************************************** 
+2018-06-25 14:25:15,892 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] **************************************************************************************** 
+2018-06-25 14:25:15,895 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] Launching the applicaiton ...http://localhost/orangehrm-4.1/symfony/web/index.php/auth/login 
+2018-06-25 14:25:17,476 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] Application Launched Successfully.. 
+2018-06-25 14:25:17,476 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] ****Entering UserName aravind 
+2018-06-25 14:25:18,010 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] ****Entering User Password @ravindA1 
+2018-06-25 14:25:18,117 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] ****Clicking on Login Button 
+2018-06-25 14:25:21,125 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] Login Success 
+2018-06-25 14:25:21,126 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] Moving mouse to List Tab  
+2018-06-25 14:25:21,402 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] ---clciiking on save button--- 
+2018-06-25 14:25:21,402 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] --- 
+2018-06-25 14:25:21,857 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] ---Entering UserNAme--- 
+2018-06-25 14:25:38,749 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] ---Entering User Last name--- 
+2018-06-25 14:25:38,855 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] ---clciiking on save button--- 
+2018-06-25 14:25:40,702 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-25 14:25:40,702 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] X 
+2018-06-25 14:25:40,702 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] X 
+2018-06-25 14:25:40,703 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] X 
+2018-06-25 14:25:40,705 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] X 
+2018-06-25 14:25:40,753 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-25 14:25:40,753 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] X 
+2018-06-25 14:25:40,753 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] X 
+2018-06-25 14:25:40,753 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] X 
+2018-06-25 14:25:40,753 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] X 
+2018-06-25 14:25:42,775 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] File validateLeaveListTestMon_Jun_25_14_11_44_IST_2018.png 
+2018-06-25 14:25:42,775 INFO  [Log_Mon_Jun_25_14_24_24_IST_2018] File validateLeaveListTestMon_Jun_25_14_25_09_IST_2018.png 
+2018-06-25 14:47:22,776 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] **************************************************************************************** 
+2018-06-25 14:47:22,777 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] **************************************************************************************** 
+2018-06-25 14:47:22,777 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 setup-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-25 14:47:22,777 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] **************************************************************************************** 
+2018-06-25 14:47:22,777 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] **************************************************************************************** 
+2018-06-25 14:47:22,833 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] creating webDriver--- 
+2018-06-25 14:47:31,462 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] returning webdriver to test 
+2018-06-25 14:47:31,536 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] **************************************************************************************** 
+2018-06-25 14:47:31,536 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] **************************************************************************************** 
+2018-06-25 14:47:31,536 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 validateAddEntitelmet-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-25 14:47:31,536 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] **************************************************************************************** 
+2018-06-25 14:47:31,536 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] **************************************************************************************** 
+2018-06-25 14:47:31,536 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] Launching the applicaiton ...http://localhost/orangehrm-4.1/symfony/web/index.php/auth/login 
+2018-06-25 14:47:34,164 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] Application Launched Successfully.. 
+2018-06-25 14:47:34,164 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] ****Entering UserName aravind 
+2018-06-25 14:47:34,849 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] ****Entering User Password @ravindA1 
+2018-06-25 14:47:35,108 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] ****Clicking on Login Button 
+2018-06-25 14:47:40,673 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] Login Success 
+2018-06-25 14:47:40,683 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-25 14:47:40,683 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] X 
+2018-06-25 14:47:40,683 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] X 
+2018-06-25 14:47:40,683 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] X 
+2018-06-25 14:47:40,683 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] X 
+2018-06-25 14:47:41,535 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] **************************************************************************************** 
+2018-06-25 14:47:41,535 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] **************************************************************************************** 
+2018-06-25 14:47:41,535 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 validateLeaveListTest-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-25 14:47:41,536 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] **************************************************************************************** 
+2018-06-25 14:47:41,536 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] **************************************************************************************** 
+2018-06-25 14:47:41,536 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] Launching the applicaiton ...http://localhost/orangehrm-4.1/symfony/web/index.php/auth/login 
+2018-06-25 14:47:43,118 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] Application Launched Successfully.. 
+2018-06-25 14:47:43,118 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] ****Entering UserName aravind 
+2018-06-25 14:47:43,442 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] ****Entering User Password @ravindA1 
+2018-06-25 14:47:43,681 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] ****Clicking on Login Button 
+2018-06-25 14:47:46,624 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] Login Success 
+2018-06-25 14:47:46,624 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] Moving mouse to List Tab  
+2018-06-25 14:47:47,024 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] ---clicking on leave list--- 
+2018-06-25 14:47:49,543 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] *** Click on leave list success*** 
+2018-06-25 14:47:49,544 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] --- Entering date--- 2018-01-01 
+2018-06-25 14:47:49,977 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] ---Entering to date ---2018-12-31 
+2018-06-25 14:47:50,367 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] ---Selecting All Check box --- 
+2018-06-25 14:47:50,367 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] --function to click on checkbox 
+2018-06-25 14:47:50,559 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] waited successfully for the element to be clickable 
+2018-06-25 14:47:50,622 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] Checkbox is not selected .. clicking on checkbox 
+2018-06-25 14:47:50,939 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] --- Entering Employee name---Employee-A LN-1 
+2018-06-25 14:47:51,169 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] ---Click on search button--- 
+2018-06-25 14:47:52,867 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] clicking on welcome link 
+2018-06-25 14:47:54,659 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-25 14:47:54,659 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] X 
+2018-06-25 14:47:54,660 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] X 
+2018-06-25 14:47:54,660 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] X 
+2018-06-25 14:47:54,660 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] X 
+2018-06-25 14:47:57,045 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] creating webDriver--- 
+2018-06-25 14:48:01,703 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] returning webdriver to test 
+2018-06-25 14:48:01,715 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] **************************************************************************************** 
+2018-06-25 14:48:01,716 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] **************************************************************************************** 
+2018-06-25 14:48:01,716 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 createEmployeeTest-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-25 14:48:01,716 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] **************************************************************************************** 
+2018-06-25 14:48:01,716 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] **************************************************************************************** 
+2018-06-25 14:48:01,716 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] Launching the applicaiton ...http://localhost/orangehrm-4.1/symfony/web/index.php/auth/login 
+2018-06-25 14:48:03,787 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] Application Launched Successfully.. 
+2018-06-25 14:48:03,789 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] ****Entering UserName aravind 
+2018-06-25 14:48:04,081 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] ****Entering User Password @ravindA1 
+2018-06-25 14:48:04,177 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] ****Clicking on Login Button 
+2018-06-25 14:48:07,331 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] Login Success 
+2018-06-25 14:48:07,332 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] Moving mouse to List Tab  
+2018-06-25 14:48:07,704 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] ---clciiking on save button--- 
+2018-06-25 14:48:07,706 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] --- 
+2018-06-25 14:48:08,879 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] ---Entering UserNAme--- 
+2018-06-25 14:48:08,950 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] ---Entering User Last name--- 
+2018-06-25 14:48:09,000 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] ---clciiking on save button--- 
+2018-06-25 14:48:11,168 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-25 14:48:11,168 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] X 
+2018-06-25 14:48:11,168 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] X 
+2018-06-25 14:48:11,169 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] X 
+2018-06-25 14:48:11,169 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] X 
+2018-06-25 14:48:11,221 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-25 14:48:11,221 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] X 
+2018-06-25 14:48:11,221 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] X 
+2018-06-25 14:48:11,221 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] X 
+2018-06-25 14:48:11,221 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] X 
+2018-06-25 14:48:13,525 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] D:\QSP\LatestPOM\reports\ss\validateLeaveListTestMon_Jun_25_14_11_44_IST_2018.png 
+2018-06-25 14:48:13,526 INFO  [Log_Mon_Jun_25_14_47_22_IST_2018] D:\QSP\LatestPOM\reports\ss\validateLeaveListTestMon_Jun_25_14_25_09_IST_2018.png 
+2018-06-25 15:01:26,395 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] **************************************************************************************** 
+2018-06-25 15:01:26,395 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] **************************************************************************************** 
+2018-06-25 15:01:26,395 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 setup-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-25 15:01:26,395 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] **************************************************************************************** 
+2018-06-25 15:01:26,395 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] **************************************************************************************** 
+2018-06-25 15:01:26,435 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] creating webDriver--- 
+2018-06-25 15:01:31,432 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] returning webdriver to test 
+2018-06-25 15:01:31,491 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] **************************************************************************************** 
+2018-06-25 15:01:31,491 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] **************************************************************************************** 
+2018-06-25 15:01:31,491 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 validateAddEntitelmet-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-25 15:01:31,491 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] **************************************************************************************** 
+2018-06-25 15:01:31,491 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] **************************************************************************************** 
+2018-06-25 15:01:31,492 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] Launching the applicaiton ...http://localhost/orangehrm-4.1/symfony/web/index.php/auth/login 
+2018-06-25 15:01:33,409 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] Application Launched Successfully.. 
+2018-06-25 15:01:33,410 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] ****Entering UserName aravind 
+2018-06-25 15:01:33,697 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] ****Entering User Password @ravindA1 
+2018-06-25 15:01:34,064 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] ****Clicking on Login Button 
+2018-06-25 15:01:37,058 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] Login Success 
+2018-06-25 15:01:37,064 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-25 15:01:37,064 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] X 
+2018-06-25 15:01:37,064 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] X 
+2018-06-25 15:01:37,064 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] X 
+2018-06-25 15:01:37,064 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] X 
+2018-06-25 15:01:37,608 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] **************************************************************************************** 
+2018-06-25 15:01:37,608 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] **************************************************************************************** 
+2018-06-25 15:01:37,608 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 validateLeaveListTest-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-25 15:01:37,608 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] **************************************************************************************** 
+2018-06-25 15:01:37,608 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] **************************************************************************************** 
+2018-06-25 15:01:37,608 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] Launching the applicaiton ...http://localhost/orangehrm-4.1/symfony/web/index.php/auth/login 
+2018-06-25 15:01:38,620 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] Application Launched Successfully.. 
+2018-06-25 15:01:38,620 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] ****Entering UserName aravind 
+2018-06-25 15:01:38,722 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] ****Entering User Password @ravindA1 
+2018-06-25 15:01:38,762 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] ****Clicking on Login Button 
+2018-06-25 15:01:40,415 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] Login Success 
+2018-06-25 15:01:40,415 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] Moving mouse to List Tab  
+2018-06-25 15:01:41,366 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] ---clicking on leave list--- 
+2018-06-25 15:01:42,752 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] *** Click on leave list success*** 
+2018-06-25 15:01:42,753 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] --- Entering date--- 2018-01-01 
+2018-06-25 15:01:43,142 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] ---Entering to date ---2018-12-31 
+2018-06-25 15:01:43,325 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] ---Selecting All Check box --- 
+2018-06-25 15:01:43,325 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] --function to click on checkbox 
+2018-06-25 15:01:43,385 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] waited successfully for the element to be clickable 
+2018-06-25 15:01:43,405 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] Checkbox is not selected .. clicking on checkbox 
+2018-06-25 15:01:43,675 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] --- Entering Employee name---Employee-A LN-1 
+2018-06-25 15:01:43,775 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] ---Click on search button--- 
+2018-06-25 15:01:44,888 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] clicking on welcome link 
+2018-06-25 15:01:46,383 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-25 15:01:46,383 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] X 
+2018-06-25 15:01:46,383 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] X 
+2018-06-25 15:01:46,383 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] X 
+2018-06-25 15:01:46,383 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] X 
+2018-06-25 15:01:48,309 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] creating webDriver--- 
+2018-06-25 15:01:52,340 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] returning webdriver to test 
+2018-06-25 15:01:52,365 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] **************************************************************************************** 
+2018-06-25 15:01:52,365 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] **************************************************************************************** 
+2018-06-25 15:01:52,365 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 createEmployeeTest-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-25 15:01:52,365 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] **************************************************************************************** 
+2018-06-25 15:01:52,365 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] **************************************************************************************** 
+2018-06-25 15:01:52,365 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] Launching the applicaiton ...http://localhost/orangehrm-4.1/symfony/web/index.php/auth/login 
+2018-06-25 15:01:54,284 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] Application Launched Successfully.. 
+2018-06-25 15:01:54,284 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] ****Entering UserName aravind 
+2018-06-25 15:01:54,528 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] ****Entering User Password @ravindA1 
+2018-06-25 15:01:54,658 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] ****Clicking on Login Button 
+2018-06-25 15:01:57,233 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] Login Success 
+2018-06-25 15:01:57,233 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] Moving mouse to List Tab  
+2018-06-25 15:01:57,721 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] Path D:\QSP\LatestPOM\reports\ss\createEmployeeTestMon_Jun_25_15_01_57_IST_2018.png 
+2018-06-25 15:01:57,724 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-25 15:01:57,724 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] X 
+2018-06-25 15:01:57,724 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] X 
+2018-06-25 15:01:57,724 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] X 
+2018-06-25 15:01:57,724 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] X 
+2018-06-25 15:01:57,817 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-25 15:01:57,817 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] X 
+2018-06-25 15:01:57,817 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] X 
+2018-06-25 15:01:57,817 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] X 
+2018-06-25 15:01:57,817 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] X 
+2018-06-25 15:01:59,737 INFO  [Log_Mon_Jun_25_15_01_26_IST_2018] D:\QSP\LatestPOM\reports\ss\createEmployeeTestMon_Jun_25_15_01_57_IST_2018.png 
+2018-06-25 15:11:37,276 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] **************************************************************************************** 
+2018-06-25 15:11:37,276 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] **************************************************************************************** 
+2018-06-25 15:11:37,276 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 setup-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-25 15:11:37,276 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] **************************************************************************************** 
+2018-06-25 15:11:37,276 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] **************************************************************************************** 
+2018-06-25 15:11:37,316 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] creating webDriver--- 
+2018-06-25 15:11:42,583 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] returning webdriver to test 
+2018-06-25 15:11:42,663 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] **************************************************************************************** 
+2018-06-25 15:11:42,663 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] **************************************************************************************** 
+2018-06-25 15:11:42,663 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 validateAddEntitelmet-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-25 15:11:42,663 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] **************************************************************************************** 
+2018-06-25 15:11:42,663 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] **************************************************************************************** 
+2018-06-25 15:11:42,663 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] Launching the applicaiton ...http://localhost/orangehrm-4.1/symfony/web/index.php/auth/login 
+2018-06-25 15:12:39,601 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] Application Launched Successfully.. 
+2018-06-25 15:12:39,601 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] ****Entering UserName aravind 
+2018-06-25 15:12:39,898 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] ****Entering User Password @ravindA1 
+2018-06-25 15:12:39,961 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] ****Clicking on Login Button 
+2018-06-25 15:12:43,007 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] Login Success 
+2018-06-25 15:12:43,020 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-25 15:12:43,020 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] X 
+2018-06-25 15:12:43,020 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] X 
+2018-06-25 15:12:43,020 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] X 
+2018-06-25 15:12:43,020 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] X 
+2018-06-25 15:12:43,989 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] **************************************************************************************** 
+2018-06-25 15:12:43,989 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] **************************************************************************************** 
+2018-06-25 15:12:43,989 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 validateLeaveListTest-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-25 15:12:43,989 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] **************************************************************************************** 
+2018-06-25 15:12:43,989 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] **************************************************************************************** 
+2018-06-25 15:12:43,990 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] Launching the applicaiton ...http://localhost/orangehrm-4.1/symfony/web/index.php/auth/login 
+2018-06-25 15:12:44,963 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] Application Launched Successfully.. 
+2018-06-25 15:12:44,964 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] ****Entering UserName aravind 
+2018-06-25 15:12:45,065 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] ****Entering User Password @ravindA1 
+2018-06-25 15:12:45,130 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] ****Clicking on Login Button 
+2018-06-25 15:12:47,112 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] Login Success 
+2018-06-25 15:12:47,112 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] Moving mouse to List Tab  
+2018-06-25 15:12:47,508 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] ---clicking on leave list--- 
+2018-06-25 15:12:49,170 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] *** Click on leave list success*** 
+2018-06-25 15:12:49,170 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] --- Entering date--- 2018-01-01 
+2018-06-25 15:12:49,372 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] ---Entering to date ---2018-12-31 
+2018-06-25 15:12:49,570 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] ---Selecting All Check box --- 
+2018-06-25 15:12:49,570 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] --function to click on checkbox 
+2018-06-25 15:12:49,649 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] waited successfully for the element to be clickable 
+2018-06-25 15:12:49,671 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] Checkbox is not selected .. clicking on checkbox 
+2018-06-25 15:12:49,917 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] --- Entering Employee name---Employee-A LN-1 
+2018-06-25 15:12:50,000 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] ---Click on search button--- 
+2018-06-25 15:12:51,158 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] clicking on welcome link 
+2018-06-25 15:12:52,704 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-25 15:12:52,704 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] X 
+2018-06-25 15:12:52,704 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] X 
+2018-06-25 15:12:52,704 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] X 
+2018-06-25 15:12:52,704 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] X 
+2018-06-25 15:12:54,423 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] creating webDriver--- 
+2018-06-25 15:12:58,359 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] returning webdriver to test 
+2018-06-25 15:12:58,369 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] **************************************************************************************** 
+2018-06-25 15:12:58,369 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] **************************************************************************************** 
+2018-06-25 15:12:58,369 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 createEmployeeTest-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-25 15:12:58,369 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] **************************************************************************************** 
+2018-06-25 15:12:58,369 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] **************************************************************************************** 
+2018-06-25 15:12:58,369 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] Launching the applicaiton ...http://localhost/orangehrm-4.1/symfony/web/index.php/auth/login 
+2018-06-25 15:13:55,008 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] Application Launched Successfully.. 
+2018-06-25 15:13:55,008 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] ****Entering UserName aravind 
+2018-06-25 15:13:55,129 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] ****Entering User Password @ravindA1 
+2018-06-25 15:13:55,188 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] ****Clicking on Login Button 
+2018-06-25 15:13:57,334 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] Login Success 
+2018-06-25 15:13:57,335 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] Moving mouse to List Tab  
+2018-06-25 15:13:57,702 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] ---clciiking on save button--- 
+2018-06-25 15:13:57,703 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] --- 
+2018-06-25 15:13:58,849 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] ---Entering UserNAme--- 
+2018-06-25 15:13:58,939 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] ---Entering User Last name--- 
+2018-06-25 15:13:58,991 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] ---clciiking on save button--- 
+2018-06-25 15:14:01,145 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-25 15:14:01,145 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] X 
+2018-06-25 15:14:01,145 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] X 
+2018-06-25 15:14:01,145 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] X 
+2018-06-25 15:14:01,145 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] X 
+2018-06-25 15:14:01,224 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-25 15:14:01,224 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] X 
+2018-06-25 15:14:01,224 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] X 
+2018-06-25 15:14:01,224 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] X 
+2018-06-25 15:14:01,224 INFO  [Log_Mon_Jun_25_15_11_37_IST_2018] X 
+2018-06-25 15:17:01,721 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] **************************************************************************************** 
+2018-06-25 15:17:01,722 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] **************************************************************************************** 
+2018-06-25 15:17:01,722 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 setup-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-25 15:17:01,722 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] **************************************************************************************** 
+2018-06-25 15:17:01,722 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] **************************************************************************************** 
+2018-06-25 15:17:01,765 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] creating webDriver--- 
+2018-06-25 15:17:07,018 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] returning webdriver to test 
+2018-06-25 15:17:07,155 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] **************************************************************************************** 
+2018-06-25 15:17:07,155 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] **************************************************************************************** 
+2018-06-25 15:17:07,155 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 validateAddEntitelmet-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-25 15:17:07,155 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] **************************************************************************************** 
+2018-06-25 15:17:07,155 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] **************************************************************************************** 
+2018-06-25 15:17:07,156 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] Launching the applicaiton ...http://localhost/orangehrm-4.1/symfony/web/index.php/auth/login 
+2018-06-25 15:17:12,371 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] Application Launched Successfully.. 
+2018-06-25 15:17:12,371 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] ****Entering UserName aravind 
+2018-06-25 15:17:12,582 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] ****Entering User Password @ravindA1 
+2018-06-25 15:17:12,633 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] ****Clicking on Login Button 
+2018-06-25 15:17:15,456 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] Login Success 
+2018-06-25 15:17:15,466 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-25 15:17:15,466 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] X 
+2018-06-25 15:17:15,466 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] X 
+2018-06-25 15:17:15,466 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] X 
+2018-06-25 15:17:15,466 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] X 
+2018-06-25 15:17:16,022 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] **************************************************************************************** 
+2018-06-25 15:17:16,023 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] **************************************************************************************** 
+2018-06-25 15:17:16,023 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 validateLeaveListTest-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-25 15:17:16,023 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] **************************************************************************************** 
+2018-06-25 15:17:16,023 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] **************************************************************************************** 
+2018-06-25 15:17:16,023 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] Launching the applicaiton ...http://localhost/orangehrm-4.1/symfony/web/index.php/auth/login 
+2018-06-25 15:17:16,690 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] Application Launched Successfully.. 
+2018-06-25 15:17:16,690 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] ****Entering UserName aravind 
+2018-06-25 15:17:16,816 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] ****Entering User Password @ravindA1 
+2018-06-25 15:17:16,891 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] ****Clicking on Login Button 
+2018-06-25 15:17:19,060 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] Login Success 
+2018-06-25 15:17:19,061 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] Moving mouse to List Tab  
+2018-06-25 15:17:19,422 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] ---clicking on leave list--- 
+2018-06-25 15:17:21,086 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] *** Click on leave list success*** 
+2018-06-25 15:17:21,086 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] --- Entering date--- 2018-01-01 
+2018-06-25 15:17:21,541 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] ---Entering to date ---2018-12-31 
+2018-06-25 15:17:21,807 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] ---Selecting All Check box --- 
+2018-06-25 15:17:21,808 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] --function to click on checkbox 
+2018-06-25 15:17:21,912 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] waited successfully for the element to be clickable 
+2018-06-25 15:17:21,947 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] Checkbox is not selected .. clicking on checkbox 
+2018-06-25 15:17:22,217 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] --- Entering Employee name---Employee-A LN-1 
+2018-06-25 15:17:22,318 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] ---Click on search button--- 
+2018-06-25 15:17:23,439 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] clicking on welcome link 
+2018-06-25 15:17:24,938 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-25 15:17:24,938 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] X 
+2018-06-25 15:17:24,938 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] X 
+2018-06-25 15:17:24,938 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] X 
+2018-06-25 15:17:24,938 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] X 
+2018-06-25 15:17:27,127 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] creating webDriver--- 
+2018-06-25 15:17:31,754 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] returning webdriver to test 
+2018-06-25 15:17:31,770 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] **************************************************************************************** 
+2018-06-25 15:17:31,770 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] **************************************************************************************** 
+2018-06-25 15:17:31,770 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 createEmployeeTest-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-25 15:17:31,770 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] **************************************************************************************** 
+2018-06-25 15:17:31,770 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] **************************************************************************************** 
+2018-06-25 15:17:31,770 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] Launching the applicaiton ...http://localhost/orangehrm-4.1/symfony/web/index.php/auth/login 
+2018-06-25 15:18:28,349 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] Application Launched Successfully.. 
+2018-06-25 15:18:28,350 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] ****Entering UserName aravind 
+2018-06-25 15:18:28,433 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] ****Entering User Password @ravindA1 
+2018-06-25 15:18:28,504 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] ****Clicking on Login Button 
+2018-06-25 15:18:30,554 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] Login Success 
+2018-06-25 15:18:30,556 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] Moving mouse to List Tab  
+2018-06-25 15:18:30,883 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] ---clciiking on save button--- 
+2018-06-25 15:18:30,885 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] --- 
+2018-06-25 15:18:31,974 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] ---Entering UserNAme--- 
+2018-06-25 15:18:32,039 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] ---Entering User Last name--- 
+2018-06-25 15:18:32,107 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] ---clciiking on save button--- 
+2018-06-25 15:18:34,182 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-25 15:18:34,182 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] X 
+2018-06-25 15:18:34,182 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] X 
+2018-06-25 15:18:34,182 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] X 
+2018-06-25 15:18:34,182 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] X 
+2018-06-25 15:18:34,267 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-25 15:18:34,267 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] X 
+2018-06-25 15:18:34,267 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] X 
+2018-06-25 15:18:34,268 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] X 
+2018-06-25 15:18:34,268 INFO  [Log_Mon_Jun_25_15_17_01_IST_2018] X 
+2018-06-25 15:20:43,256 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] **************************************************************************************** 
+2018-06-25 15:20:43,256 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] **************************************************************************************** 
+2018-06-25 15:20:43,256 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 setup-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-25 15:20:43,256 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] **************************************************************************************** 
+2018-06-25 15:20:43,256 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] **************************************************************************************** 
+2018-06-25 15:20:43,296 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] creating webDriver--- 
+2018-06-25 15:20:48,952 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] returning webdriver to test 
+2018-06-25 15:20:49,018 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] **************************************************************************************** 
+2018-06-25 15:20:49,019 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] **************************************************************************************** 
+2018-06-25 15:20:49,019 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 validateAddEntitelmet-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-25 15:20:49,019 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] **************************************************************************************** 
+2018-06-25 15:20:49,019 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] **************************************************************************************** 
+2018-06-25 15:20:49,019 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] Launching the applicaiton ...http://localhost/orangehrm-4.1/symfony/web/index.php/auth/login 
+2018-06-25 15:20:50,800 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] Application Launched Successfully.. 
+2018-06-25 15:20:50,800 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] ****Entering UserName aravind 
+2018-06-25 15:20:51,234 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] ****Entering User Password @ravindA1 
+2018-06-25 15:20:51,508 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] ****Clicking on Login Button 
+2018-06-25 15:20:54,246 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] Login Success 
+2018-06-25 15:20:54,251 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-25 15:20:54,251 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] X 
+2018-06-25 15:20:54,251 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] X 
+2018-06-25 15:20:54,251 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] X 
+2018-06-25 15:20:54,251 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] X 
+2018-06-25 15:20:54,797 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] **************************************************************************************** 
+2018-06-25 15:20:54,797 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] **************************************************************************************** 
+2018-06-25 15:20:54,797 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 validateLeaveListTest-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-25 15:20:54,797 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] **************************************************************************************** 
+2018-06-25 15:20:54,797 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] **************************************************************************************** 
+2018-06-25 15:20:54,797 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] Launching the applicaiton ...http://localhost/orangehrm-4.1/symfony/web/index.php/auth/login 
+2018-06-25 15:20:55,562 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] Application Launched Successfully.. 
+2018-06-25 15:20:55,562 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] ****Entering UserName aravind 
+2018-06-25 15:20:55,673 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] ****Entering User Password @ravindA1 
+2018-06-25 15:20:55,733 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] ****Clicking on Login Button 
+2018-06-25 15:20:57,756 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] Login Success 
+2018-06-25 15:20:57,756 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] Moving mouse to List Tab  
+2018-06-25 15:20:58,650 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] ---clicking on leave list--- 
+2018-06-25 15:21:00,082 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] *** Click on leave list success*** 
+2018-06-25 15:21:00,083 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] --- Entering date--- 2018-01-01 
+2018-06-25 15:21:00,514 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] ---Entering to date ---2018-12-31 
+2018-06-25 15:21:00,729 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] ---Selecting All Check box --- 
+2018-06-25 15:21:00,729 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] --function to click on checkbox 
+2018-06-25 15:21:00,849 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] waited successfully for the element to be clickable 
+2018-06-25 15:21:00,869 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] Checkbox is not selected .. clicking on checkbox 
+2018-06-25 15:21:01,118 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] --- Entering Employee name---Employee-A LN-1 
+2018-06-25 15:21:01,304 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] ---Click on search button--- 
+2018-06-25 15:21:02,492 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] clicking on welcome link 
+2018-06-25 15:21:04,138 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-25 15:21:04,138 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] X 
+2018-06-25 15:21:04,138 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] X 
+2018-06-25 15:21:04,138 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] X 
+2018-06-25 15:21:04,138 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] X 
+2018-06-25 15:21:06,608 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] creating webDriver--- 
+2018-06-25 15:21:10,700 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] returning webdriver to test 
+2018-06-25 15:21:10,714 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] **************************************************************************************** 
+2018-06-25 15:21:10,714 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] **************************************************************************************** 
+2018-06-25 15:21:10,714 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 createEmployeeTest-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-25 15:21:10,714 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] **************************************************************************************** 
+2018-06-25 15:21:10,714 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] **************************************************************************************** 
+2018-06-25 15:21:10,714 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] Launching the applicaiton ...http://localhost/orangehrm-4.1/symfony/web/index.php/auth/login 
+2018-06-25 15:21:12,710 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] Application Launched Successfully.. 
+2018-06-25 15:21:12,710 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] ****Entering UserName aravind 
+2018-06-25 15:21:12,910 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] ****Entering User Password @ravindA1 
+2018-06-25 15:21:13,069 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] ****Clicking on Login Button 
+2018-06-25 15:21:15,057 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] Login Success 
+2018-06-25 15:21:15,057 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] Moving mouse to List Tab  
+2018-06-25 15:21:15,506 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] Path D:\QSP\LatestPOM\reports\ss\createEmployeeTestMon_Jun_25_15_21_15_IST_2018.png 
+2018-06-25 15:21:15,510 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-25 15:21:15,510 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] X 
+2018-06-25 15:21:15,510 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] X 
+2018-06-25 15:21:15,510 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] X 
+2018-06-25 15:21:15,510 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] X 
+2018-06-25 15:21:15,568 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-25 15:21:15,568 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] X 
+2018-06-25 15:21:15,568 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] X 
+2018-06-25 15:21:15,568 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] X 
+2018-06-25 15:21:15,568 INFO  [Log_Mon_Jun_25_15_20_43_IST_2018] X 
+2018-06-25 15:24:14,428 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] **************************************************************************************** 
+2018-06-25 15:24:14,428 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] **************************************************************************************** 
+2018-06-25 15:24:14,428 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 setup-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-25 15:24:14,428 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] **************************************************************************************** 
+2018-06-25 15:24:14,428 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] **************************************************************************************** 
+2018-06-25 15:24:14,468 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] creating webDriver--- 
+2018-06-25 15:24:20,210 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] returning webdriver to test 
+2018-06-25 15:24:20,331 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] **************************************************************************************** 
+2018-06-25 15:24:20,331 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] **************************************************************************************** 
+2018-06-25 15:24:20,331 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 validateAddEntitelmet-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-25 15:24:20,332 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] **************************************************************************************** 
+2018-06-25 15:24:20,332 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] **************************************************************************************** 
+2018-06-25 15:24:20,332 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] Launching the applicaiton ...http://localhost/orangehrm-4.1/symfony/web/index.php/auth/login 
+2018-06-25 15:24:22,000 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] Application Launched Successfully.. 
+2018-06-25 15:24:22,000 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] ****Entering UserName aravind 
+2018-06-25 15:24:22,613 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] ****Entering User Password @ravindA1 
+2018-06-25 15:24:22,712 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] ****Clicking on Login Button 
+2018-06-25 15:24:26,122 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] Login Success 
+2018-06-25 15:24:26,141 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-25 15:24:26,141 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] X 
+2018-06-25 15:24:26,141 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] X 
+2018-06-25 15:24:26,141 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] X 
+2018-06-25 15:24:26,141 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] X 
+2018-06-25 15:24:27,015 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] **************************************************************************************** 
+2018-06-25 15:24:27,015 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] **************************************************************************************** 
+2018-06-25 15:24:27,015 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 validateLeaveListTest-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-25 15:24:27,015 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] **************************************************************************************** 
+2018-06-25 15:24:27,015 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] **************************************************************************************** 
+2018-06-25 15:24:27,015 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] Launching the applicaiton ...http://localhost/orangehrm-4.1/symfony/web/index.php/auth/login 
+2018-06-25 15:24:27,669 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] Application Launched Successfully.. 
+2018-06-25 15:24:27,669 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] ****Entering UserName aravind 
+2018-06-25 15:24:27,755 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] ****Entering User Password @ravindA1 
+2018-06-25 15:24:27,805 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] ****Clicking on Login Button 
+2018-06-25 15:24:30,089 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] Login Success 
+2018-06-25 15:24:30,089 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] Moving mouse to List Tab  
+2018-06-25 15:24:30,561 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] ---clicking on leave list--- 
+2018-06-25 15:24:32,194 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] *** Click on leave list success*** 
+2018-06-25 15:24:32,195 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] --- Entering date--- 2018-01-01 
+2018-06-25 15:24:32,622 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] ---Entering to date ---2018-12-31 
+2018-06-25 15:24:32,823 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] ---Selecting All Check box --- 
+2018-06-25 15:24:32,823 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] --function to click on checkbox 
+2018-06-25 15:24:32,993 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] waited successfully for the element to be clickable 
+2018-06-25 15:24:33,023 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] Checkbox is not selected .. clicking on checkbox 
+2018-06-25 15:24:33,290 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] --- Entering Employee name---Employee-A LN-1 
+2018-06-25 15:24:33,415 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] ---Click on search button--- 
+2018-06-25 15:24:34,640 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] clicking on welcome link 
+2018-06-25 15:24:36,069 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-25 15:24:36,069 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] X 
+2018-06-25 15:24:36,069 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] X 
+2018-06-25 15:24:36,069 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] X 
+2018-06-25 15:24:36,069 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] X 
+2018-06-25 15:24:38,119 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] creating webDriver--- 
+2018-06-25 15:24:42,129 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] returning webdriver to test 
+2018-06-25 15:24:42,133 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] **************************************************************************************** 
+2018-06-25 15:24:42,134 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] **************************************************************************************** 
+2018-06-25 15:24:42,134 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 createEmployeeTest-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-25 15:24:42,134 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] **************************************************************************************** 
+2018-06-25 15:24:42,134 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] **************************************************************************************** 
+2018-06-25 15:24:42,134 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] Launching the applicaiton ...http://localhost/orangehrm-4.1/symfony/web/index.php/auth/login 
+2018-06-25 15:24:44,039 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] Application Launched Successfully.. 
+2018-06-25 15:24:44,041 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] ****Entering UserName aravind 
+2018-06-25 15:24:44,224 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] ****Entering User Password @ravindA1 
+2018-06-25 15:24:44,340 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] ****Clicking on Login Button 
+2018-06-25 15:24:46,476 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] Login Success 
+2018-06-25 15:24:46,476 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] Moving mouse to List Tab  
+2018-06-25 15:24:46,780 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] ---clciiking on save button--- 
+2018-06-25 15:24:46,781 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] --- 
+2018-06-25 15:24:47,760 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] ---Entering UserNAme--- 
+2018-06-25 15:24:47,837 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] ---Entering User Last name--- 
+2018-06-25 15:24:47,899 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] ---clciiking on save button--- 
+2018-06-25 15:24:50,249 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-25 15:24:50,249 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] X 
+2018-06-25 15:24:50,249 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] X 
+2018-06-25 15:24:50,249 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] X 
+2018-06-25 15:24:50,249 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] X 
+2018-06-25 15:24:50,328 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-25 15:24:50,328 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] X 
+2018-06-25 15:24:50,328 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] X 
+2018-06-25 15:24:50,328 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] X 
+2018-06-25 15:24:50,328 INFO  [Log_Mon_Jun_25_15_24_14_IST_2018] X 
+2018-06-25 15:28:21,164 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] **************************************************************************************** 
+2018-06-25 15:28:21,164 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] **************************************************************************************** 
+2018-06-25 15:28:21,164 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 setup-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-25 15:28:21,164 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] **************************************************************************************** 
+2018-06-25 15:28:21,164 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] **************************************************************************************** 
+2018-06-25 15:28:21,200 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] creating webDriver--- 
+2018-06-25 15:28:26,253 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] returning webdriver to test 
+2018-06-25 15:28:26,424 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] **************************************************************************************** 
+2018-06-25 15:28:26,424 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] **************************************************************************************** 
+2018-06-25 15:28:26,424 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 validateAddEntitelmet-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-25 15:28:26,424 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] **************************************************************************************** 
+2018-06-25 15:28:26,424 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] **************************************************************************************** 
+2018-06-25 15:28:26,425 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] Launching the applicaiton ...http://localhost/orangehrm-4.1/symfony/web/index.php/auth/login 
+2018-06-25 15:28:28,769 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] Application Launched Successfully.. 
+2018-06-25 15:28:28,770 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] ****Entering UserName aravind 
+2018-06-25 15:28:28,964 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] ****Entering User Password @ravindA1 
+2018-06-25 15:28:29,065 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] ****Clicking on Login Button 
+2018-06-25 15:28:31,336 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] Login Success 
+2018-06-25 15:28:31,341 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-25 15:28:31,341 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] X 
+2018-06-25 15:28:31,341 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] X 
+2018-06-25 15:28:31,341 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] X 
+2018-06-25 15:28:31,341 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] X 
+2018-06-25 15:28:32,117 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] **************************************************************************************** 
+2018-06-25 15:28:32,117 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] **************************************************************************************** 
+2018-06-25 15:28:32,117 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 validateLeaveListTest-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-25 15:28:32,118 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] **************************************************************************************** 
+2018-06-25 15:28:32,118 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] **************************************************************************************** 
+2018-06-25 15:28:32,118 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] Launching the applicaiton ...http://localhost/orangehrm-4.1/symfony/web/index.php/auth/login 
+2018-06-25 15:28:32,767 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] Application Launched Successfully.. 
+2018-06-25 15:28:32,767 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] ****Entering UserName aravind 
+2018-06-25 15:28:32,844 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] ****Entering User Password @ravindA1 
+2018-06-25 15:28:32,887 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] ****Clicking on Login Button 
+2018-06-25 15:28:34,980 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] Login Success 
+2018-06-25 15:28:34,981 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] Moving mouse to List Tab  
+2018-06-25 15:28:35,491 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] ---clicking on leave list--- 
+2018-06-25 15:28:37,071 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] *** Click on leave list success*** 
+2018-06-25 15:28:37,071 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] --- Entering date--- 2018-01-01 
+2018-06-25 15:28:37,504 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] ---Entering to date ---2018-12-31 
+2018-06-25 15:28:37,756 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] ---Selecting All Check box --- 
+2018-06-25 15:28:37,756 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] --function to click on checkbox 
+2018-06-25 15:28:37,918 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] waited successfully for the element to be clickable 
+2018-06-25 15:28:37,975 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] Checkbox is not selected .. clicking on checkbox 
+2018-06-25 15:28:38,262 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] --- Entering Employee name---Employee-A LN-1 
+2018-06-25 15:28:38,343 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] ---Click on search button--- 
+2018-06-25 15:28:39,579 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] clicking on welcome link 
+2018-06-25 15:28:41,419 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-25 15:28:41,419 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] X 
+2018-06-25 15:28:41,419 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] X 
+2018-06-25 15:28:41,419 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] X 
+2018-06-25 15:28:41,419 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] X 
+2018-06-25 15:28:43,547 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] creating webDriver--- 
+2018-06-25 15:28:47,636 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] returning webdriver to test 
+2018-06-25 15:28:47,646 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] **************************************************************************************** 
+2018-06-25 15:28:47,646 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] **************************************************************************************** 
+2018-06-25 15:28:47,646 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 createEmployeeTest-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-25 15:28:47,646 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] **************************************************************************************** 
+2018-06-25 15:28:47,646 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] **************************************************************************************** 
+2018-06-25 15:28:47,646 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] Launching the applicaiton ...http://localhost/orangehrm-4.1/symfony/web/index.php/auth/login 
+2018-06-25 15:28:49,753 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] Application Launched Successfully.. 
+2018-06-25 15:28:49,753 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] ****Entering UserName aravind 
+2018-06-25 15:28:50,211 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] ****Entering User Password @ravindA1 
+2018-06-25 15:28:50,412 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] ****Clicking on Login Button 
+2018-06-25 15:28:52,450 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] Login Success 
+2018-06-25 15:28:52,451 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] Moving mouse to List Tab  
+2018-06-25 15:28:52,941 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] Path D:\QSP\LatestPOM\reports\ss\createEmployeeTestMon_Jun_25_15_28_52_IST_2018.png 
+2018-06-25 15:28:52,946 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-25 15:28:52,946 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] X 
+2018-06-25 15:28:52,946 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] X 
+2018-06-25 15:28:52,946 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] X 
+2018-06-25 15:28:52,946 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] X 
+2018-06-25 15:28:53,064 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-25 15:28:53,064 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] X 
+2018-06-25 15:28:53,064 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] X 
+2018-06-25 15:28:53,064 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] X 
+2018-06-25 15:28:53,064 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] X 
+2018-06-25 15:28:55,097 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] creating webDriver--- 
+2018-06-25 15:28:59,113 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] returning webdriver to test 
+2018-06-25 15:28:59,113 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] **************************************************************************************** 
+2018-06-25 15:28:59,113 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] **************************************************************************************** 
+2018-06-25 15:28:59,113 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 validateLoginTest-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-25 15:28:59,113 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] **************************************************************************************** 
+2018-06-25 15:28:59,113 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] **************************************************************************************** 
+2018-06-25 15:28:59,113 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] Launching the applicaiton ...http://localhost/orangehrm-4.1/symfony/web/index.php/auth/login 
+2018-06-25 15:29:01,267 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] Application Launched Successfully.. 
+2018-06-25 15:29:01,267 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] ****Entering UserName aravind 
+2018-06-25 15:29:01,464 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] ****Entering User Password dummy 
+2018-06-25 15:29:01,504 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] ****Clicking on Login Button 
+2018-06-25 15:29:32,581 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] Login failed with aravind and dummy 
+2018-06-25 15:29:32,601 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] inside after method with 2 
+2018-06-25 15:29:32,601 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] 2 
+2018-06-25 15:29:32,733 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] Path D:\QSP\LatestPOM\reports\ss\validateLoginFailTestMon_Jun_25_15_29_32_IST_2018.png 
+2018-06-25 15:29:32,733 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-25 15:29:32,733 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] X 
+2018-06-25 15:29:32,733 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] X 
+2018-06-25 15:29:32,733 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] X 
+2018-06-25 15:29:32,733 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] X 
+2018-06-25 15:29:32,779 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] **************************************************************************************** 
+2018-06-25 15:29:32,779 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] **************************************************************************************** 
+2018-06-25 15:29:32,779 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 validateLoginTest-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-25 15:29:32,780 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] **************************************************************************************** 
+2018-06-25 15:29:32,780 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] **************************************************************************************** 
+2018-06-25 15:29:32,780 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] Launching the applicaiton ...http://localhost/orangehrm-4.1/symfony/web/index.php/auth/login 
+2018-06-25 15:29:33,406 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] Application Launched Successfully.. 
+2018-06-25 15:29:33,406 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] ****Entering UserName aravind 
+2018-06-25 15:29:33,476 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] ****Entering User Password @ravindA1 
+2018-06-25 15:29:33,516 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] ****Clicking on Login Button 
+2018-06-25 15:29:35,464 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] Login Success 
+2018-06-25 15:29:35,464 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] Login to Applicaiton Success 
+2018-06-25 15:29:35,464 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] --Completeds Executing Test - validateLoginTest 
+2018-06-25 15:29:35,466 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] inside after method with 1 
+2018-06-25 15:29:35,466 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] 2 
+2018-06-25 15:29:35,466 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-25 15:29:35,466 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] X 
+2018-06-25 15:29:35,466 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] X 
+2018-06-25 15:29:35,466 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] X 
+2018-06-25 15:29:35,466 INFO  [Log_Mon_Jun_25_15_28_20_IST_2018] X 
+2018-06-25 15:36:34,356 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] **************************************************************************************** 
+2018-06-25 15:36:34,356 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] **************************************************************************************** 
+2018-06-25 15:36:34,356 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 setup-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-25 15:36:34,356 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] **************************************************************************************** 
+2018-06-25 15:36:34,356 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] **************************************************************************************** 
+2018-06-25 15:36:34,377 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] creating webDriver--- 
+2018-06-25 15:36:40,198 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] returning webdriver to test 
+2018-06-25 15:36:40,316 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] **************************************************************************************** 
+2018-06-25 15:36:40,316 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] **************************************************************************************** 
+2018-06-25 15:36:40,316 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 validateAddEntitelmet-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-25 15:36:40,316 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] **************************************************************************************** 
+2018-06-25 15:36:40,316 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] **************************************************************************************** 
+2018-06-25 15:36:40,316 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] Launching the applicaiton ...http://localhost/orangehrm-4.1/symfony/web/index.php/auth/login 
+2018-06-25 15:36:44,125 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] Application Launched Successfully.. 
+2018-06-25 15:36:44,126 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] ****Entering UserName aravind 
+2018-06-25 15:36:44,267 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] ****Entering User Password @ravindA1 
+2018-06-25 15:36:44,327 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] ****Clicking on Login Button 
+2018-06-25 15:36:47,242 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] Login Success 
+2018-06-25 15:36:47,250 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-25 15:36:47,250 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] X 
+2018-06-25 15:36:47,250 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] X 
+2018-06-25 15:36:47,250 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] X 
+2018-06-25 15:36:47,250 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] X 
+2018-06-25 15:36:47,970 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] **************************************************************************************** 
+2018-06-25 15:36:47,970 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] **************************************************************************************** 
+2018-06-25 15:36:47,970 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 validateLeaveListTest-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-25 15:36:47,970 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] **************************************************************************************** 
+2018-06-25 15:36:47,971 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] **************************************************************************************** 
+2018-06-25 15:36:47,971 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] Launching the applicaiton ...http://localhost/orangehrm-4.1/symfony/web/index.php/auth/login 
+2018-06-25 15:36:49,235 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] Application Launched Successfully.. 
+2018-06-25 15:36:49,235 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] ****Entering UserName aravind 
+2018-06-25 15:36:49,365 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] ****Entering User Password @ravindA1 
+2018-06-25 15:36:49,435 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] ****Clicking on Login Button 
+2018-06-25 15:37:24,757 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] Login failed with aravind and @ravindA1 
+2018-06-25 15:37:24,928 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] Path D:\QSP\LatestPOM\reports\ss\validateLeaveListTestMon_Jun_25_15_37_24_IST_2018.png 
+2018-06-25 15:37:24,928 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-25 15:37:24,928 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] X 
+2018-06-25 15:37:24,928 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] X 
+2018-06-25 15:37:24,928 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] X 
+2018-06-25 15:37:24,928 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] X 
+2018-06-25 15:37:26,927 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] creating webDriver--- 
+2018-06-25 15:37:31,423 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] returning webdriver to test 
+2018-06-25 15:37:31,424 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] **************************************************************************************** 
+2018-06-25 15:37:31,424 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] **************************************************************************************** 
+2018-06-25 15:37:31,424 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 createEmployeeTest-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-25 15:37:31,424 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] **************************************************************************************** 
+2018-06-25 15:37:31,424 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] **************************************************************************************** 
+2018-06-25 15:37:31,424 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] Launching the applicaiton ...http://localhost/orangehrm-4.1/symfony/web/index.php/auth/login 
+2018-06-25 15:38:28,428 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] Application Launched Successfully.. 
+2018-06-25 15:38:28,428 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] ****Entering UserName aravind 
+2018-06-25 15:38:28,600 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] ****Entering User Password @ravindA1 
+2018-06-25 15:38:28,667 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] ****Clicking on Login Button 
+2018-06-25 15:38:31,501 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] Login Success 
+2018-06-25 15:38:31,501 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] Moving mouse to List Tab  
+2018-06-25 15:38:31,890 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] ---clciiking on save button--- 
+2018-06-25 15:38:31,891 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] --- 
+2018-06-25 15:38:32,264 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] ---Entering UserNAme--- 
+2018-06-25 15:39:02,448 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] Path D:\QSP\LatestPOM\reports\ss\createEmployeeTestMon_Jun_25_15_39_02_IST_2018.png 
+2018-06-25 15:39:02,472 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-25 15:39:02,472 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] X 
+2018-06-25 15:39:02,472 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] X 
+2018-06-25 15:39:02,473 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] X 
+2018-06-25 15:39:02,473 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] X 
+2018-06-25 15:39:02,564 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-25 15:39:02,564 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] X 
+2018-06-25 15:39:02,564 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] X 
+2018-06-25 15:39:02,565 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] X 
+2018-06-25 15:39:02,565 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] X 
+2018-06-25 15:39:05,304 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] creating webDriver--- 
+2018-06-25 15:39:11,661 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] returning webdriver to test 
+2018-06-25 15:39:11,667 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] **************************************************************************************** 
+2018-06-25 15:39:11,667 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] **************************************************************************************** 
+2018-06-25 15:39:11,667 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 validateLoginTest-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-25 15:39:11,667 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] **************************************************************************************** 
+2018-06-25 15:39:11,667 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] **************************************************************************************** 
+2018-06-25 15:39:11,667 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] Launching the applicaiton ...http://localhost/orangehrm-4.1/symfony/web/index.php/auth/login 
+2018-06-25 15:40:07,484 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] Application Launched Successfully.. 
+2018-06-25 15:40:07,485 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] ****Entering UserName aravind 
+2018-06-25 15:40:07,709 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] ****Entering User Password dummy 
+2018-06-25 15:40:07,746 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] ****Clicking on Login Button 
+2018-06-25 15:40:38,725 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] Login failed with aravind and dummy 
+2018-06-25 15:40:38,735 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] inside after method with 2 
+2018-06-25 15:40:38,735 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] 2 
+2018-06-25 15:40:38,857 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] Path D:\QSP\LatestPOM\reports\ss\validateLoginFailTestMon_Jun_25_15_40_38_IST_2018.png 
+2018-06-25 15:40:38,857 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-25 15:40:38,857 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] X 
+2018-06-25 15:40:38,857 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] X 
+2018-06-25 15:40:38,857 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] X 
+2018-06-25 15:40:38,857 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] X 
+2018-06-25 15:40:38,914 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] **************************************************************************************** 
+2018-06-25 15:40:38,914 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] **************************************************************************************** 
+2018-06-25 15:40:38,914 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 validateLoginTest-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-25 15:40:38,914 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] **************************************************************************************** 
+2018-06-25 15:40:38,914 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] **************************************************************************************** 
+2018-06-25 15:40:38,914 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] Launching the applicaiton ...http://localhost/orangehrm-4.1/symfony/web/index.php/auth/login 
+2018-06-25 15:40:39,458 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] Application Launched Successfully.. 
+2018-06-25 15:40:39,458 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] ****Entering UserName aravind 
+2018-06-25 15:40:39,518 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] ****Entering User Password @ravindA1 
+2018-06-25 15:40:39,568 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] ****Clicking on Login Button 
+2018-06-25 15:40:41,725 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] Login Success 
+2018-06-25 15:40:41,725 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] Login to Applicaiton Success 
+2018-06-25 15:40:41,725 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] --Completeds Executing Test - validateLoginTest 
+2018-06-25 15:40:41,727 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] inside after method with 1 
+2018-06-25 15:40:41,727 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] 2 
+2018-06-25 15:40:41,727 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-25 15:40:41,727 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] X 
+2018-06-25 15:40:41,727 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] X 
+2018-06-25 15:40:41,727 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] X 
+2018-06-25 15:40:41,728 INFO  [Log_Mon_Jun_25_15_36_34_IST_2018] X 
+2018-06-26 14:49:27,997 INFO  [Log_Tue_Jun_26_14_49_27_IST_2018] **************************************************************************************** 
+2018-06-26 14:49:27,998 INFO  [Log_Tue_Jun_26_14_49_27_IST_2018] **************************************************************************************** 
+2018-06-26 14:49:27,998 INFO  [Log_Tue_Jun_26_14_49_27_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 setup-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-26 14:49:27,998 INFO  [Log_Tue_Jun_26_14_49_27_IST_2018] **************************************************************************************** 
+2018-06-26 14:49:27,998 INFO  [Log_Tue_Jun_26_14_49_27_IST_2018] **************************************************************************************** 
+2018-06-26 14:50:39,101 INFO  [Log_Tue_Jun_26_14_50_38_IST_2018] **************************************************************************************** 
+2018-06-26 14:50:39,102 INFO  [Log_Tue_Jun_26_14_50_38_IST_2018] **************************************************************************************** 
+2018-06-26 14:50:39,102 INFO  [Log_Tue_Jun_26_14_50_38_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 setup-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-26 14:50:39,102 INFO  [Log_Tue_Jun_26_14_50_38_IST_2018] **************************************************************************************** 
+2018-06-26 14:50:39,102 INFO  [Log_Tue_Jun_26_14_50_38_IST_2018] **************************************************************************************** 
+2018-06-26 14:50:39,106 INFO  [Log_Tue_Jun_26_14_50_38_IST_2018] creating webDriver--- 
+2018-06-26 14:50:44,819 INFO  [Log_Tue_Jun_26_14_50_38_IST_2018] returning webdriver to test 
+2018-06-26 14:50:44,910 INFO  [Log_Tue_Jun_26_14_50_38_IST_2018] **************************************************************************************** 
+2018-06-26 14:50:44,910 INFO  [Log_Tue_Jun_26_14_50_38_IST_2018] **************************************************************************************** 
+2018-06-26 14:50:44,910 INFO  [Log_Tue_Jun_26_14_50_38_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 validateLoginTest-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-26 14:50:44,910 INFO  [Log_Tue_Jun_26_14_50_38_IST_2018] **************************************************************************************** 
+2018-06-26 14:50:44,910 INFO  [Log_Tue_Jun_26_14_50_38_IST_2018] **************************************************************************************** 
+2018-06-26 14:50:44,910 INFO  [Log_Tue_Jun_26_14_50_38_IST_2018] Launching the applicaiton ...http://localhost/orangehrm-4.1/symfony/web/index.php/auth/login 
+2018-06-26 14:50:47,884 INFO  [Log_Tue_Jun_26_14_50_38_IST_2018] Application Launched Successfully.. 
+2018-06-26 14:50:47,886 INFO  [Log_Tue_Jun_26_14_50_38_IST_2018] ****Entering UserName aravind 
+2018-06-26 14:50:48,307 INFO  [Log_Tue_Jun_26_14_50_38_IST_2018] ****Entering User Password @ravindA1 
+2018-06-26 14:50:48,391 INFO  [Log_Tue_Jun_26_14_50_38_IST_2018] ****Clicking on Login Button 
+2018-06-26 14:50:51,923 INFO  [Log_Tue_Jun_26_14_50_38_IST_2018] Login Success 
+2018-06-26 14:50:51,923 INFO  [Log_Tue_Jun_26_14_50_38_IST_2018] Login to Applicaiton Success 
+2018-06-26 14:50:51,923 INFO  [Log_Tue_Jun_26_14_50_38_IST_2018] --Completeds Executing Test - validateLoginTest 
+2018-06-26 14:50:51,930 INFO  [Log_Tue_Jun_26_14_50_38_IST_2018] inside after method with 1 
+2018-06-26 14:50:51,930 INFO  [Log_Tue_Jun_26_14_50_38_IST_2018] 2 
+2018-06-26 14:50:51,931 INFO  [Log_Tue_Jun_26_14_50_38_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-26 14:50:51,931 INFO  [Log_Tue_Jun_26_14_50_38_IST_2018] X 
+2018-06-26 14:50:51,931 INFO  [Log_Tue_Jun_26_14_50_38_IST_2018] X 
+2018-06-26 14:50:51,931 INFO  [Log_Tue_Jun_26_14_50_38_IST_2018] X 
+2018-06-26 14:50:51,931 INFO  [Log_Tue_Jun_26_14_50_38_IST_2018] X 
+2018-06-26 19:00:41,497 INFO  [Log_Tue_Jun_26_19_00_41_IST_2018] **************************************************************************************** 
+2018-06-26 19:00:41,497 INFO  [Log_Tue_Jun_26_19_00_41_IST_2018] **************************************************************************************** 
+2018-06-26 19:00:41,497 INFO  [Log_Tue_Jun_26_19_00_41_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 setup-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-26 19:00:41,497 INFO  [Log_Tue_Jun_26_19_00_41_IST_2018] **************************************************************************************** 
+2018-06-26 19:00:41,497 INFO  [Log_Tue_Jun_26_19_00_41_IST_2018] **************************************************************************************** 
+2018-06-26 19:00:41,497 INFO  [Log_Tue_Jun_26_19_00_41_IST_2018] creating webDriver--- 
+2018-06-26 19:00:46,976 INFO  [Log_Tue_Jun_26_19_00_41_IST_2018] returning webdriver to test 
+2018-06-26 19:00:47,045 INFO  [Log_Tue_Jun_26_19_00_41_IST_2018] **************************************************************************************** 
+2018-06-26 19:00:47,045 INFO  [Log_Tue_Jun_26_19_00_41_IST_2018] **************************************************************************************** 
+2018-06-26 19:00:47,045 INFO  [Log_Tue_Jun_26_19_00_41_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 validateLoginTest-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-26 19:00:47,045 INFO  [Log_Tue_Jun_26_19_00_41_IST_2018] **************************************************************************************** 
+2018-06-26 19:00:47,045 INFO  [Log_Tue_Jun_26_19_00_41_IST_2018] **************************************************************************************** 
+2018-06-26 19:00:47,045 INFO  [Log_Tue_Jun_26_19_00_41_IST_2018] Launching the applicaiton ...http://localhost/orangehrm-4.1/symfony/web/index.php/auth/login 
+2018-06-26 19:00:49,716 INFO  [Log_Tue_Jun_26_19_00_41_IST_2018] Application Launched Successfully.. 
+2018-06-26 19:00:49,717 INFO  [Log_Tue_Jun_26_19_00_41_IST_2018] ****Entering UserName aravind 
+2018-06-26 19:00:49,887 INFO  [Log_Tue_Jun_26_19_00_41_IST_2018] ****Entering User Password @ravindA1 
+2018-06-26 19:00:49,980 INFO  [Log_Tue_Jun_26_19_00_41_IST_2018] ****Clicking on Login Button 
+2018-06-26 19:00:52,464 INFO  [Log_Tue_Jun_26_19_00_41_IST_2018] Login Success 
+2018-06-26 19:00:52,464 INFO  [Log_Tue_Jun_26_19_00_41_IST_2018] Login to Applicaiton Success 
+2018-06-26 19:00:52,465 INFO  [Log_Tue_Jun_26_19_00_41_IST_2018] --Completeds Executing Test - validateLoginTest 
+2018-06-26 19:00:52,472 INFO  [Log_Tue_Jun_26_19_00_41_IST_2018] inside after method with 1 
+2018-06-26 19:00:52,473 INFO  [Log_Tue_Jun_26_19_00_41_IST_2018] 2 
+2018-06-26 19:00:52,474 INFO  [Log_Tue_Jun_26_19_00_41_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-26 19:00:52,474 INFO  [Log_Tue_Jun_26_19_00_41_IST_2018] X 
+2018-06-26 19:00:52,474 INFO  [Log_Tue_Jun_26_19_00_41_IST_2018] X 
+2018-06-26 19:00:52,474 INFO  [Log_Tue_Jun_26_19_00_41_IST_2018] X 
+2018-06-26 19:00:52,474 INFO  [Log_Tue_Jun_26_19_00_41_IST_2018] X 
+2018-06-26 19:02:20,626 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] **************************************************************************************** 
+2018-06-26 19:02:20,626 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] **************************************************************************************** 
+2018-06-26 19:02:20,626 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 setup-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-26 19:02:20,626 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] **************************************************************************************** 
+2018-06-26 19:02:20,626 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] **************************************************************************************** 
+2018-06-26 19:02:20,666 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] creating webDriver--- 
+2018-06-26 19:02:25,455 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] returning webdriver to test 
+2018-06-26 19:02:25,531 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] **************************************************************************************** 
+2018-06-26 19:02:25,531 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] **************************************************************************************** 
+2018-06-26 19:02:25,531 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 validateAddEntitelmet-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-26 19:02:25,531 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] **************************************************************************************** 
+2018-06-26 19:02:25,531 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] **************************************************************************************** 
+2018-06-26 19:02:25,531 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] Launching the applicaiton ...http://localhost/orangehrm-4.1/symfony/web/index.php/auth/login 
+2018-06-26 19:02:27,437 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] Application Launched Successfully.. 
+2018-06-26 19:02:27,437 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] ****Entering UserName aravind 
+2018-06-26 19:02:27,566 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] ****Entering User Password @ravindA1 
+2018-06-26 19:02:27,607 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] ****Clicking on Login Button 
+2018-06-26 19:02:29,810 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] Login Success 
+2018-06-26 19:02:29,814 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-26 19:02:29,815 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] X 
+2018-06-26 19:02:29,815 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] X 
+2018-06-26 19:02:29,815 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] X 
+2018-06-26 19:02:29,815 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] X 
+2018-06-26 19:02:30,410 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] **************************************************************************************** 
+2018-06-26 19:02:30,410 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] **************************************************************************************** 
+2018-06-26 19:02:30,410 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 validateLeaveListTest-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-26 19:02:30,410 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] **************************************************************************************** 
+2018-06-26 19:02:30,410 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] **************************************************************************************** 
+2018-06-26 19:02:30,410 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] Launching the applicaiton ...http://localhost/orangehrm-4.1/symfony/web/index.php/auth/login 
+2018-06-26 19:02:31,125 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] Application Launched Successfully.. 
+2018-06-26 19:02:31,125 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] ****Entering UserName aravind 
+2018-06-26 19:02:31,188 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] ****Entering User Password @ravindA1 
+2018-06-26 19:02:31,221 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] ****Clicking on Login Button 
+2018-06-26 19:02:33,009 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] Login Success 
+2018-06-26 19:02:33,010 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] Moving mouse to List Tab  
+2018-06-26 19:02:33,357 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] ---clicking on leave list--- 
+2018-06-26 19:02:35,437 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] *** Click on leave list success*** 
+2018-06-26 19:02:35,439 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] --- Entering date--- 2018-01-01 
+2018-06-26 19:02:35,655 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] ---Entering to date ---2018-12-31 
+2018-06-26 19:02:35,927 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] ---Selecting All Check box --- 
+2018-06-26 19:02:35,974 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] --function to click on checkbox 
+2018-06-26 19:02:36,061 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] waited successfully for the element to be clickable 
+2018-06-26 19:02:36,090 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] Checkbox is not selected .. clicking on checkbox 
+2018-06-26 19:02:36,351 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] --- Entering Employee name---Employee-A LN-1 
+2018-06-26 19:02:36,559 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] ---Click on search button--- 
+2018-06-26 19:02:38,425 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] clicking on welcome link 
+2018-06-26 19:02:40,157 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-26 19:02:40,158 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] X 
+2018-06-26 19:02:40,158 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] X 
+2018-06-26 19:02:40,158 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] X 
+2018-06-26 19:02:40,158 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] X 
+2018-06-26 19:02:42,141 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] creating webDriver--- 
+2018-06-26 19:02:46,100 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] returning webdriver to test 
+2018-06-26 19:02:46,130 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] **************************************************************************************** 
+2018-06-26 19:02:46,130 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] **************************************************************************************** 
+2018-06-26 19:02:46,130 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 createEmployeeTest-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-26 19:02:46,130 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] **************************************************************************************** 
+2018-06-26 19:02:46,130 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] **************************************************************************************** 
+2018-06-26 19:02:46,130 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] Launching the applicaiton ...http://localhost/orangehrm-4.1/symfony/web/index.php/auth/login 
+2018-06-26 19:02:52,250 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] Application Launched Successfully.. 
+2018-06-26 19:02:52,250 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] ****Entering UserName aravind 
+2018-06-26 19:02:52,368 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] ****Entering User Password @ravindA1 
+2018-06-26 19:02:52,474 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] ****Clicking on Login Button 
+2018-06-26 19:02:54,676 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] Login Success 
+2018-06-26 19:02:54,676 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] Moving mouse to List Tab  
+2018-06-26 19:02:55,055 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] ---clciiking on save button--- 
+2018-06-26 19:02:55,055 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] --- 
+2018-06-26 19:02:55,445 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] ---Entering UserNAme--- 
+2018-06-26 19:03:25,660 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] Path D:\QSP\LatestPOM\reports\ss\createEmployeeTestTue_Jun_26_19_03_25_IST_2018.png 
+2018-06-26 19:03:25,670 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-26 19:03:25,670 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] X 
+2018-06-26 19:03:25,670 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] X 
+2018-06-26 19:03:25,670 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] X 
+2018-06-26 19:03:25,670 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] X 
+2018-06-26 19:03:25,753 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-26 19:03:25,753 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] X 
+2018-06-26 19:03:25,753 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] X 
+2018-06-26 19:03:25,753 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] X 
+2018-06-26 19:03:25,753 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] X 
+2018-06-26 19:03:27,516 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] creating webDriver--- 
+2018-06-26 19:03:32,458 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] returning webdriver to test 
+2018-06-26 19:03:32,468 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] **************************************************************************************** 
+2018-06-26 19:03:32,468 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] **************************************************************************************** 
+2018-06-26 19:03:32,468 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 validateLoginTest-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-26 19:03:32,468 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] **************************************************************************************** 
+2018-06-26 19:03:32,468 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] **************************************************************************************** 
+2018-06-26 19:03:32,468 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] Launching the applicaiton ...http://localhost/orangehrm-4.1/symfony/web/index.php/auth/login 
+2018-06-26 19:03:34,879 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] Application Launched Successfully.. 
+2018-06-26 19:03:34,879 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] ****Entering UserName aravind 
+2018-06-26 19:03:35,100 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] ****Entering User Password dummy 
+2018-06-26 19:03:35,171 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] ****Clicking on Login Button 
+2018-06-26 19:04:06,369 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] Login failed with aravind and dummy 
+2018-06-26 19:04:06,369 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] inside after method with 2 
+2018-06-26 19:04:06,369 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] 2 
+2018-06-26 19:04:06,503 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] Path D:\QSP\LatestPOM\reports\ss\validateLoginFailTestTue_Jun_26_19_04_06_IST_2018.png 
+2018-06-26 19:04:06,503 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-26 19:04:06,503 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] X 
+2018-06-26 19:04:06,503 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] X 
+2018-06-26 19:04:06,503 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] X 
+2018-06-26 19:04:06,503 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] X 
+2018-06-26 19:04:06,604 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] **************************************************************************************** 
+2018-06-26 19:04:06,604 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] **************************************************************************************** 
+2018-06-26 19:04:06,604 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 validateLoginTest-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-26 19:04:06,604 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] **************************************************************************************** 
+2018-06-26 19:04:06,604 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] **************************************************************************************** 
+2018-06-26 19:04:06,604 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] Launching the applicaiton ...http://localhost/orangehrm-4.1/symfony/web/index.php/auth/login 
+2018-06-26 19:04:07,961 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] Application Launched Successfully.. 
+2018-06-26 19:04:07,961 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] ****Entering UserName aravind 
+2018-06-26 19:04:08,042 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] ****Entering User Password @ravindA1 
+2018-06-26 19:04:08,102 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] ****Clicking on Login Button 
+2018-06-26 19:04:10,411 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] Login Success 
+2018-06-26 19:04:10,412 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] Login to Applicaiton Success 
+2018-06-26 19:04:10,412 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] --Completeds Executing Test - validateLoginTest 
+2018-06-26 19:04:10,413 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] inside after method with 1 
+2018-06-26 19:04:10,413 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] 2 
+2018-06-26 19:04:10,413 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-26 19:04:10,413 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] X 
+2018-06-26 19:04:10,413 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] X 
+2018-06-26 19:04:10,413 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] X 
+2018-06-26 19:04:10,413 INFO  [Log_Tue_Jun_26_19_02_20_IST_2018] X 
+2018-06-26 19:04:34,144 INFO  [Log_Tue_Jun_26_19_04_33_IST_2018] **************************************************************************************** 
+2018-06-26 19:04:34,144 INFO  [Log_Tue_Jun_26_19_04_33_IST_2018] **************************************************************************************** 
+2018-06-26 19:04:34,144 INFO  [Log_Tue_Jun_26_19_04_33_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 setup-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-26 19:04:34,144 INFO  [Log_Tue_Jun_26_19_04_33_IST_2018] **************************************************************************************** 
+2018-06-26 19:04:34,144 INFO  [Log_Tue_Jun_26_19_04_33_IST_2018] **************************************************************************************** 
+2018-06-26 19:04:34,144 INFO  [Log_Tue_Jun_26_19_04_33_IST_2018] creating webDriver--- 
+2018-06-26 19:04:39,063 INFO  [Log_Tue_Jun_26_19_04_33_IST_2018] returning webdriver to test 
+2018-06-26 19:04:39,114 INFO  [Log_Tue_Jun_26_19_04_33_IST_2018] **************************************************************************************** 
+2018-06-26 19:04:39,114 INFO  [Log_Tue_Jun_26_19_04_33_IST_2018] **************************************************************************************** 
+2018-06-26 19:04:39,114 INFO  [Log_Tue_Jun_26_19_04_33_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 validateLoginTest-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-26 19:04:39,114 INFO  [Log_Tue_Jun_26_19_04_33_IST_2018] **************************************************************************************** 
+2018-06-26 19:04:39,114 INFO  [Log_Tue_Jun_26_19_04_33_IST_2018] **************************************************************************************** 
+2018-06-26 19:04:39,114 INFO  [Log_Tue_Jun_26_19_04_33_IST_2018] Launching the applicaiton ...http://localhost/orangehrm-4.1/symfony/web/index.php/auth/login 
+2018-06-26 19:04:41,155 INFO  [Log_Tue_Jun_26_19_04_33_IST_2018] Application Launched Successfully.. 
+2018-06-26 19:04:41,157 INFO  [Log_Tue_Jun_26_19_04_33_IST_2018] ****Entering UserName aravind 
+2018-06-26 19:04:41,285 INFO  [Log_Tue_Jun_26_19_04_33_IST_2018] ****Entering User Password @ravindA1 
+2018-06-26 19:04:41,342 INFO  [Log_Tue_Jun_26_19_04_33_IST_2018] ****Clicking on Login Button 
+2018-06-26 19:04:43,827 INFO  [Log_Tue_Jun_26_19_04_33_IST_2018] Login Success 
+2018-06-26 19:04:43,828 INFO  [Log_Tue_Jun_26_19_04_33_IST_2018] Login to Applicaiton Success 
+2018-06-26 19:04:43,828 INFO  [Log_Tue_Jun_26_19_04_33_IST_2018] --Completeds Executing Test - validateLoginTest 
+2018-06-26 19:04:43,837 INFO  [Log_Tue_Jun_26_19_04_33_IST_2018] inside after method with 1 
+2018-06-26 19:04:43,838 INFO  [Log_Tue_Jun_26_19_04_33_IST_2018] 2 
+2018-06-26 19:04:43,838 INFO  [Log_Tue_Jun_26_19_04_33_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-26 19:04:43,838 INFO  [Log_Tue_Jun_26_19_04_33_IST_2018] X 
+2018-06-26 19:04:43,838 INFO  [Log_Tue_Jun_26_19_04_33_IST_2018] X 
+2018-06-26 19:04:43,838 INFO  [Log_Tue_Jun_26_19_04_33_IST_2018] X 
+2018-06-26 19:04:43,838 INFO  [Log_Tue_Jun_26_19_04_33_IST_2018] X 
+2018-06-26 19:08:48,492 INFO  [Log_Tue_Jun_26_19_08_48_IST_2018] **************************************************************************************** 
+2018-06-26 19:08:48,492 INFO  [Log_Tue_Jun_26_19_08_48_IST_2018] **************************************************************************************** 
+2018-06-26 19:08:48,492 INFO  [Log_Tue_Jun_26_19_08_48_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 setup-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-26 19:08:48,492 INFO  [Log_Tue_Jun_26_19_08_48_IST_2018] **************************************************************************************** 
+2018-06-26 19:08:48,492 INFO  [Log_Tue_Jun_26_19_08_48_IST_2018] **************************************************************************************** 
+2018-06-26 19:08:48,502 INFO  [Log_Tue_Jun_26_19_08_48_IST_2018] creating webDriver--- 
+2018-06-26 19:08:53,525 INFO  [Log_Tue_Jun_26_19_08_48_IST_2018] returning webdriver to test 
+2018-06-26 19:08:53,582 INFO  [Log_Tue_Jun_26_19_08_48_IST_2018] **************************************************************************************** 
+2018-06-26 19:08:53,582 INFO  [Log_Tue_Jun_26_19_08_48_IST_2018] **************************************************************************************** 
+2018-06-26 19:08:53,582 INFO  [Log_Tue_Jun_26_19_08_48_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 validateLoginTest-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-26 19:08:53,582 INFO  [Log_Tue_Jun_26_19_08_48_IST_2018] **************************************************************************************** 
+2018-06-26 19:08:53,582 INFO  [Log_Tue_Jun_26_19_08_48_IST_2018] **************************************************************************************** 
+2018-06-26 19:08:53,582 INFO  [Log_Tue_Jun_26_19_08_48_IST_2018] Launching the applicaiton ...http://localhost/orangehrm-4.1/symfony/web/index.php/auth/login 
+2018-06-26 19:08:55,983 INFO  [Log_Tue_Jun_26_19_08_48_IST_2018] Application Launched Successfully.. 
+2018-06-26 19:08:55,983 INFO  [Log_Tue_Jun_26_19_08_48_IST_2018] ****Entering UserName aravind 
+2018-06-26 19:08:56,137 INFO  [Log_Tue_Jun_26_19_08_48_IST_2018] ****Entering User Password @ravindA1 
+2018-06-26 19:08:56,196 INFO  [Log_Tue_Jun_26_19_08_48_IST_2018] ****Clicking on Login Button 
+2018-06-26 19:08:58,758 INFO  [Log_Tue_Jun_26_19_08_48_IST_2018] Login Success 
+2018-06-26 19:08:58,761 INFO  [Log_Tue_Jun_26_19_08_48_IST_2018] Login to Applicaiton Success 
+2018-06-26 19:08:58,761 INFO  [Log_Tue_Jun_26_19_08_48_IST_2018] --Completeds Executing Test - validateLoginTest 
+2018-06-26 19:08:58,766 INFO  [Log_Tue_Jun_26_19_08_48_IST_2018] inside after method with 1 
+2018-06-26 19:08:58,766 INFO  [Log_Tue_Jun_26_19_08_48_IST_2018] 2 
+2018-06-26 19:08:58,766 INFO  [Log_Tue_Jun_26_19_08_48_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-26 19:08:58,766 INFO  [Log_Tue_Jun_26_19_08_48_IST_2018] X 
+2018-06-26 19:08:58,766 INFO  [Log_Tue_Jun_26_19_08_48_IST_2018] X 
+2018-06-26 19:08:58,766 INFO  [Log_Tue_Jun_26_19_08_48_IST_2018] X 
+2018-06-26 19:08:58,766 INFO  [Log_Tue_Jun_26_19_08_48_IST_2018] X 
+2018-06-26 19:10:18,278 INFO  [Log_Tue_Jun_26_19_10_18_IST_2018] **************************************************************************************** 
+2018-06-26 19:10:18,278 INFO  [Log_Tue_Jun_26_19_10_18_IST_2018] **************************************************************************************** 
+2018-06-26 19:10:18,278 INFO  [Log_Tue_Jun_26_19_10_18_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 setup-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-26 19:10:18,278 INFO  [Log_Tue_Jun_26_19_10_18_IST_2018] **************************************************************************************** 
+2018-06-26 19:10:18,278 INFO  [Log_Tue_Jun_26_19_10_18_IST_2018] **************************************************************************************** 
+2018-06-26 19:10:18,288 INFO  [Log_Tue_Jun_26_19_10_18_IST_2018] creating webDriver--- 
+2018-06-26 19:10:23,174 INFO  [Log_Tue_Jun_26_19_10_18_IST_2018] returning webdriver to test 
+2018-06-26 19:10:23,235 INFO  [Log_Tue_Jun_26_19_10_18_IST_2018] **************************************************************************************** 
+2018-06-26 19:10:23,235 INFO  [Log_Tue_Jun_26_19_10_18_IST_2018] **************************************************************************************** 
+2018-06-26 19:10:23,235 INFO  [Log_Tue_Jun_26_19_10_18_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 validateLoginTest-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-26 19:10:23,235 INFO  [Log_Tue_Jun_26_19_10_18_IST_2018] **************************************************************************************** 
+2018-06-26 19:10:23,235 INFO  [Log_Tue_Jun_26_19_10_18_IST_2018] **************************************************************************************** 
+2018-06-26 19:10:23,235 INFO  [Log_Tue_Jun_26_19_10_18_IST_2018] Launching the applicaiton ...http://localhost/orangehrm-4.1/symfony/web/index.php/auth/login 
+2018-06-26 19:10:25,078 INFO  [Log_Tue_Jun_26_19_10_18_IST_2018] Application Launched Successfully.. 
+2018-06-26 19:10:25,079 INFO  [Log_Tue_Jun_26_19_10_18_IST_2018] ****Entering UserName aravind 
+2018-06-26 19:10:25,254 INFO  [Log_Tue_Jun_26_19_10_18_IST_2018] ****Entering User Password @ravindA1 
+2018-06-26 19:10:25,314 INFO  [Log_Tue_Jun_26_19_10_18_IST_2018] ****Clicking on Login Button 
+2018-06-26 19:10:27,955 INFO  [Log_Tue_Jun_26_19_10_18_IST_2018] Login Success 
+2018-06-26 19:10:27,955 INFO  [Log_Tue_Jun_26_19_10_18_IST_2018] Login to Applicaiton Success 
+2018-06-26 19:10:27,955 INFO  [Log_Tue_Jun_26_19_10_18_IST_2018] --Completeds Executing Test - validateLoginTest 
+2018-06-26 19:10:27,961 INFO  [Log_Tue_Jun_26_19_10_18_IST_2018] inside after method with 1 
+2018-06-26 19:10:27,961 INFO  [Log_Tue_Jun_26_19_10_18_IST_2018] 2 
+2018-06-26 19:10:27,962 INFO  [Log_Tue_Jun_26_19_10_18_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-26 19:10:27,962 INFO  [Log_Tue_Jun_26_19_10_18_IST_2018] X 
+2018-06-26 19:10:27,962 INFO  [Log_Tue_Jun_26_19_10_18_IST_2018] X 
+2018-06-26 19:10:27,962 INFO  [Log_Tue_Jun_26_19_10_18_IST_2018] X 
+2018-06-26 19:10:27,962 INFO  [Log_Tue_Jun_26_19_10_18_IST_2018] X 
+2018-06-26 19:13:09,680 INFO  [Log_Tue_Jun_26_19_13_09_IST_2018] **************************************************************************************** 
+2018-06-26 19:13:09,680 INFO  [Log_Tue_Jun_26_19_13_09_IST_2018] **************************************************************************************** 
+2018-06-26 19:13:09,680 INFO  [Log_Tue_Jun_26_19_13_09_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 setup-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-26 19:13:09,680 INFO  [Log_Tue_Jun_26_19_13_09_IST_2018] **************************************************************************************** 
+2018-06-26 19:13:09,680 INFO  [Log_Tue_Jun_26_19_13_09_IST_2018] **************************************************************************************** 
+2018-06-26 19:13:09,690 INFO  [Log_Tue_Jun_26_19_13_09_IST_2018] creating webDriver--- 
+2018-06-26 19:13:15,052 INFO  [Log_Tue_Jun_26_19_13_09_IST_2018] returning webdriver to test 
+2018-06-26 19:13:15,110 INFO  [Log_Tue_Jun_26_19_13_09_IST_2018] **************************************************************************************** 
+2018-06-26 19:13:15,110 INFO  [Log_Tue_Jun_26_19_13_09_IST_2018] **************************************************************************************** 
+2018-06-26 19:13:15,110 INFO  [Log_Tue_Jun_26_19_13_09_IST_2018] $$$$$$$$$$$$$$$$$$$$$                 validateLoginTest-started       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-06-26 19:13:15,110 INFO  [Log_Tue_Jun_26_19_13_09_IST_2018] **************************************************************************************** 
+2018-06-26 19:13:15,110 INFO  [Log_Tue_Jun_26_19_13_09_IST_2018] **************************************************************************************** 
+2018-06-26 19:13:15,110 INFO  [Log_Tue_Jun_26_19_13_09_IST_2018] Launching the applicaiton ...http://localhost/orangehrm-4.1/symfony/web/index.php/auth/login 
+2018-06-26 19:13:17,434 INFO  [Log_Tue_Jun_26_19_13_09_IST_2018] Application Launched Successfully.. 
+2018-06-26 19:13:17,434 INFO  [Log_Tue_Jun_26_19_13_09_IST_2018] ****Entering UserName aravind 
+2018-06-26 19:13:17,605 INFO  [Log_Tue_Jun_26_19_13_09_IST_2018] ****Entering User Password @ravindA1 
+2018-06-26 19:13:17,694 INFO  [Log_Tue_Jun_26_19_13_09_IST_2018] ****Clicking on Login Button 
+2018-06-26 19:13:20,637 INFO  [Log_Tue_Jun_26_19_13_09_IST_2018] Login Success 
+2018-06-26 19:13:20,637 INFO  [Log_Tue_Jun_26_19_13_09_IST_2018] Login to Applicaiton Success 
+2018-06-26 19:13:20,637 INFO  [Log_Tue_Jun_26_19_13_09_IST_2018] --Completeds Executing Test - validateLoginTest 
+2018-06-26 19:13:20,642 INFO  [Log_Tue_Jun_26_19_13_09_IST_2018] inside after method with 1 
+2018-06-26 19:13:20,643 INFO  [Log_Tue_Jun_26_19_13_09_IST_2018] 2 
+2018-06-26 19:13:20,643 INFO  [Log_Tue_Jun_26_19_13_09_IST_2018] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-06-26 19:13:20,643 INFO  [Log_Tue_Jun_26_19_13_09_IST_2018] X 
+2018-06-26 19:13:20,643 INFO  [Log_Tue_Jun_26_19_13_09_IST_2018] X 
+2018-06-26 19:13:20,644 INFO  [Log_Tue_Jun_26_19_13_09_IST_2018] X 
+2018-06-26 19:13:20,644 INFO  [Log_Tue_Jun_26_19_13_09_IST_2018] X 

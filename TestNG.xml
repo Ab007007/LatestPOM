@@ -16,5 +16,9 @@
       <class name="com.qst.ohrm.test.EmployeeTest"/>
     </classes>
   </test> <!-- Default test -->
-
+   <test thread-count="5" verbose="2" name="Login Test">
+    <classes>
+      <class name="com.qst.ohrm.test.OrangeHRMLoginTest"/>
+    </classes>
+  </test> <!-- Default test -->
 </suite>

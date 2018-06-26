@@ -77,6 +77,7 @@ public class EmployeeTest {
 		if (testResult.getStatus() == ITestResult.FAILURE) {
 			String path = Screenshots.takeScreenshot(driver, testResult.getName()+ExtentReportFactory.getCurrentDateAndTime());
 			Log.info("Path " + path);
+			Log.ssPath.add(path);
 			Log.attachScreenShot(path);
 			Log.writeToFailFile(testResult.getThrowable().toString());
 			System.out.println(Exception.class.toString());

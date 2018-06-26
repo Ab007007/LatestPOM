@@ -3,6 +3,8 @@ package com.qst.ohrm.utils;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
 
 import org.apache.log4j.Logger;
 import org.apache.log4j.xml.DOMConfigurator;
@@ -22,6 +24,7 @@ public class Log {
 	private static BufferedWriter bw = null;
 	private static FileWriter fw = null;
 	private static String logName = null;
+	public static List ssPath = null;
 
 
 	// This is to print log for the beginning of the test case, as we usually run so many test cases as a test suite
@@ -29,7 +32,7 @@ public class Log {
 	public static void configureReport(){
 		DOMConfigurator.configure("log4j.xml");
 		reports = ExtentReportFactory.getInstance();
-
+		ssPath = new ArrayList<String>();
 	}
 
 	public static ExtentTest startReport(String testname){

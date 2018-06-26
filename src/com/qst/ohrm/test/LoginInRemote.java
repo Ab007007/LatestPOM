@@ -60,6 +60,7 @@ public class LoginInRemote {
 		Log.info(String.valueOf(ITestResult.FAILURE));
 		if (testResult.getStatus() == ITestResult.FAILURE) {
 			String path = Screenshots.takeScreenshot(driver, testResult.getName()+ExtentReportFactory.getCurrentDateAndTime());
+			Log.ssPath.add(path);
 			Log.info("Path " + path);
 			Log.attachScreenShot(path);
 		}

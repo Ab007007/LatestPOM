@@ -1,11 +1,16 @@
 package com.qst.ohrm.utils;
 
+import java.io.File;
+import java.io.IOException;
 import java.util.Date;
+import java.util.Iterator;
 
 import org.apache.commons.mail.DefaultAuthenticator;
 import org.apache.commons.mail.EmailAttachment;
 import org.apache.commons.mail.EmailException;
 import org.apache.commons.mail.MultiPartEmail;
+import org.testng.ITestResult;
+import org.testng.annotations.AfterMethod;
 
 import com.relevantcodes.extentreports.ExtentReports;
 
@@ -60,12 +65,12 @@ public class ExtentReportFactory {
 	
 	public static void sendReportByGMail(String... to) throws EmailException 
 	{
+		String ssName = null;
 		EmailAttachment attachment = new EmailAttachment();
 		  attachment.setPath(ExtentReportFactory.getPath());
 		  attachment.setDisposition(EmailAttachment.ATTACHMENT);
 		  attachment.setDescription("TEST EXECUTION REPORT");
-		  attachment.setName(ExtentReportFactory.getPath());
-
+		  attachment.setName("AutomationExecutionReport" + ExtentReportFactory.getCurrentDateAndTime() + ".html");
 		  // Create the email message
 		  MultiPartEmail email = new MultiPartEmail();
 		  email.setHostName("smtp.gmail.com");
@@ -85,11 +90,16 @@ public class ExtentReportFactory {
 
 		  // add the attachment
 		  email.attach(attachment);
-
+		  if(Log.ssPath.size()>0){
+			  Iterator<String>  it = Log.ssPath.iterator();
+			  while(it.hasNext()){
+				  	ssName = it.next();
+				  	System.out.println(ssName);
+				  	email.attach(new File(ssName));
+			  }
+		  }
 		  // send the email
 		  email.send();
 	}
-	
-	
 
 }

@@ -17,28 +17,25 @@ import com.qst.ohrm.utils.ExtentReportFactory;
 import com.qst.ohrm.utils.Log;
 import com.qst.ohrm.utils.OrangeHRMUtils;
 import com.qst.ohrm.utils.Screenshots;
-import com.relevantcodes.extentreports.ExtentReports;
-import com.relevantcodes.extentreports.ExtentTest;
 
-public class OrangeHRMLoginTest {
+public class ScriptDevelopment {
 
-	private static WebDriver driver = null;
+	ConfigFileReader configFileReader = null;
+	WebDriver driver = null;
 	OrangeHRMLoginPage oLoginpage= null;
 	OrangeDashboardPage odp = null;
 	
-	ConfigFileReader configFileReader;
-	DriverUtils dUtils=null;
-	ExtentReports reports;
-	ExtentTest test;
- 	
 	@BeforeClass
- 	public void setup(){
+ 	public void preConfig(){
+ 		configFileReader= new ConfigFileReader();
+ 		Log.configureReport();
+ 		Log.startReport("setup");
  		configFileReader= new ConfigFileReader();
 		driver = DriverUtils.getWebDriver();
 		oLoginpage = new OrangeHRMLoginPage(driver);
 		odp = new OrangeDashboardPage(driver);
+		
  	}
- 	
 	@Test(groups={"smoke"})
 	public void validateLoginTest(){
 		OrangeHRMUtils.startTest(driver, "validateLoginTest");
@@ -46,14 +43,6 @@ public class OrangeHRMLoginTest {
 			Log.pass("Login to Applicaiton Success");
 		Log.info("--Completeds Executing Test - validateLoginTest");
  		//Log.endReport("validateLoginTest");
-	}
-	
-	@Test
-	public void validateLoginFailTest(){
-		OrangeHRMUtils.startTest(driver, "validateLoginTest");
-		oLoginpage.loginToOrangeHRM(driver, configFileReader.getUserName(), "dummy");
-		Log.info("completed Successfully " );
- 	//	Log.endReport("validateLoginTest1");
 	}
 	
 	@AfterMethod
@@ -70,9 +59,18 @@ public class OrangeHRMLoginTest {
 		Log.endReport();
 	}
 	
+	
 	@AfterClass
 	public void tearDown(){
-		driver.close();
-		driver = null;
+		try{
+			ExtentReportFactory.sendReportByGMail();
+		}catch(Exception ex){
+			System.out.println(ex);
+		}finally{
+			if(driver!=null){
+					driver.close();
+					driver = null;
+			}
+		}
 	}
 }
